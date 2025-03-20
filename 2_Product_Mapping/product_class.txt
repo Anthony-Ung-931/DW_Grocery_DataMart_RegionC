@@ -112,4 +112,4 @@ product_class_id	product_subcategory	product_category	product_department	product
 209	Baby Food	Baby Food	Baby Food	Food
 211	Bananas	Fruit	Produce	Food
 213	Diapers	Paper Products	Household	Non-Consumable
-214 Pet Food	Pet Supplies	Household	Non-Consumable
+214	Pet Food	Pet Supplies	Household	Non-Consumable
