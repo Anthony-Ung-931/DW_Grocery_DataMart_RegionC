@@ -1,5 +1,8 @@
 # DW_Grocery_DataMart_RegionC
 
+NB: Every `.db` and `.csv` file needed for the Jupyter notebooks to run was generated
+  as the result of some Jupyter notebook.
+
 Directories are organized as follows:
 - `0_SD_Team_*`
   - This contains the starting data for each of the teams involved.
