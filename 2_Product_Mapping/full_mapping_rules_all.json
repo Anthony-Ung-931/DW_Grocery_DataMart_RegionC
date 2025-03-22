@@ -550,8 +550,8 @@
             "dogs"
         ],
         "manufacturer": "oscar mayer",
-        "class_id": 8,
-        "reason": "Hot Dogs mapped to Deli Meats"
+        "class_id": 81,
+        "reason": "Hot Dogs mapped to Hot Dogs"
     },
     {
         "keywords": [
