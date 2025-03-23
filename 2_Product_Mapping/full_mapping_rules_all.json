@@ -1,5 +1,77 @@
 [
- {
+    {
+      "keywords": ["jambalaya", "rice", "mix"],
+      "manufacturer": "zatarains",
+      "class_id": 57,
+      "reason": "Zatarains Jambalaya Rice Mix mapped to Rice"
+    },
+    {
+      "keywords": ["guacamole", "regular"],
+      "manufacturer": "yucatan",
+      "class_id": 83,
+      "reason": "Yucatan Guacamole mapped to Dips"
+    },
+    {
+      "keywords": ["cheeseburger", "heat", "serve", "sliders"],
+      "manufacturer": "white castle",
+      "class_id": 0,
+      "reason": "White Castle Sliders (custom category: Frozen Entrees)"
+    },
+    {
+      "keywords": ["farmers", "pick", "concord", "grape"],
+      "manufacturer": "welchs",
+      "class_id": 30,
+      "reason": "Welchs Concord Grape mapped to Juice"
+    },
+    {
+      "keywords": ["shells", "cheese"],
+      "manufacturer": "velveeta",
+      "class_id": 11,
+      "reason": "Velveeta Shells & Cheese mapped to Cheese"
+    },
+    {
+      "keywords": ["hot", "cocoa", "mix"],
+      "manufacturer": "swiss miss",
+      "class_id": 51,
+      "reason": "Swiss Miss Hot Cocoa Mix mapped to Hot Beverages"
+    },
+    {
+      "keywords": ["cleaner"],
+      "manufacturer": "sunset",
+      "class_id": 21,
+      "reason": "Sunset cleaner mapped to Cleaners"
+    },
+    {
+      "keywords": ["sunny", "delight"],
+      "manufacturer": "sunny d",
+      "class_id": 52,
+      "reason": "Sunny D mapped to Flavored Drinks"
+    },
+    {
+      "keywords": ["sunny", "delight"],
+      "manufacturer": "sunny delight drinks",
+      "class_id": 52,
+      "reason": "Sunny Delight Drinks mapped to Flavored Drinks"
+    },
+    {
+      "keywords": ["bread"],
+      "manufacturer": "sun-maid",
+      "class_id": 27,
+      "reason": "Bread product mapped to Sliced Bread"
+    },
+    {
+      "keywords": ["bread"],
+      "manufacturer": "sunbeam",
+      "class_id": 27,
+      "reason": "Bread product mapped to Sliced Bread"
+    },
+    {
+      "keywords": ["bread"],
+      "manufacturer": "stroehmann",
+      "class_id": 27,
+      "reason": "Bread product mapped to Sliced Bread"
+    },
+    {
         "keywords": [
             "iced",
             "tea",
@@ -2284,5 +2356,90 @@
         "manufacturer": "all laundry",
         "class_id": 21,
         "reason": "Laundry Detergent mapped to Cleaners"
-    }
+    },
+        {
+          "keywords": ["english", "muffins", "original"],
+          "manufacturer": "schmidt old tyme",
+          "class_id": 25,
+          "reason": "English Muffins mapped to Bagels/Muffins"
+        },
+        {
+          "keywords": ["stone", "wheat", "thins", "original"],
+          "manufacturer": "red oval farms",
+          "class_id": 82,
+          "reason": "Wheat Thins mapped to Crackers"
+        },
+        {
+          "keywords": ["muffins", "banana", "nut"],
+          "manufacturer": "little debbie",
+          "class_id": 26,
+          "reason": "Banana Nut Muffins mapped to Muffins"
+        },
+        {
+          "keywords": ["muffins", "blueberry"],
+          "manufacturer": "little debbie",
+          "class_id": 26,
+          "reason": "Blueberry Muffins mapped to Muffins"
+        },
+        {
+          "keywords": ["eggs", "large"],
+          "manufacturer": "kroger",
+          "class_id": 62,
+          "reason": "Eggs mapped to Dairy/Eggs category"
+        },
+        {
+          "keywords": ["muffin", "mix", "blueberry"],
+          "manufacturer": "jiffy",
+          "class_id": 26,
+          "reason": "Blueberry Muffin Mix mapped to Muffins"
+        },
+        {
+          "keywords": ["muffin", "mix", "corn"],
+          "manufacturer": "jiffy",
+          "class_id": 26,
+          "reason": "Corn Muffin Mix mapped to Muffins"
+        },
+        {
+          "keywords": ["muffin", "mix", "raspberry"],
+          "manufacturer": "jiffy",
+          "class_id": 26,
+          "reason": "Raspberry Muffin Mix mapped to Muffins"
+        },
+        {
+          "keywords": ["muffin", "mix", "vegetarian", "corn"],
+          "manufacturer": "jiffy",
+          "class_id": 26,
+          "reason": "Vegetarian Corn Muffin Mix mapped to Muffins"
+        },
+        {
+          "keywords": ["muffins", "chocolate", "chip", "mini"],
+          "manufacturer": "entenmanns",
+          "class_id": 26,
+          "reason": "Chocolate Chip Mini Muffins mapped to Muffins"
+        },
+        {
+          "keywords": ["laundry", "detergent", "ultra", "free", "clear"],
+          "manufacturer": "all",
+          "class_id": 21,
+          "reason": "All Laundry Detergent mapped to Cleaners"
+        },
+        {
+          "keywords": ["jewish", "pumpernickel", "dark", "pump"],
+          "manufacturer": "pepperidge farm",
+          "class_id": 27,
+          "reason": "Jewish Pumpernickel Bread mapped to Sliced Bread"
+        },
+        {
+          "keywords": ["texas", "toast", "5", "cheese"],
+          "manufacturer": "pepperidge farm",
+          "class_id": 27,
+          "reason": "Texas Toast Cheese Bread mapped to Sliced Bread"
+        },
+        {
+          "keywords": ["texas", "toast", "garlic"],
+          "manufacturer": "pepperidge farm",
+          "class_id": 27,
+          "reason": "Texas Toast Garlic Bread mapped to Sliced Bread"
+        }
+      
 ]
