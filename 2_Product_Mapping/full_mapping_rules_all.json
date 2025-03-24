@@ -14,8 +14,8 @@
     {
       "keywords": ["cheeseburger", "heat", "serve", "sliders"],
       "manufacturer": "white castle",
-      "class_id": 0,
-      "reason": "White Castle Sliders (custom category: Frozen Entrees)"
+      "class_id": 10,
+      "reason": "White Castle Sliders mapped by AU to frozen entrees"
     },
     {
       "keywords": ["farmers", "pick", "concord", "grape"],
@@ -111,8 +111,8 @@
             "pork"
         ],
         "manufacturer": "stove top",
-        "class_id": 0,
-        "reason": "Stuffing Mix Pork mapped to Prepared Foods"
+        "class_id": 4,
+        "reason": "Stuffing Mix mapped by AU to spices"
     },
     {
         "keywords": [
@@ -180,8 +180,8 @@
             "balsamic"
         ],
         "manufacturer": "star",
-        "class_id": 0,
-        "reason": "Vinegar Balsamic mapped to Condiments"
+        "class_id": 48,
+        "reason": "Vinegar Balsamic mapped to Sauces"
     },
     {
         "keywords": [
@@ -202,8 +202,8 @@
             "vanilla"
         ],
         "manufacturer": "soy dream",
-        "class_id": 0,
-        "reason": "Soy Milk Vanilla mapped to Non-Dairy Milk"
+        "class_id": 52,
+        "reason": "Soy Milk Vanilla mapped by AU to Flavored Drinks"
     },
     {
         "keywords": [
@@ -212,8 +212,8 @@
             "original"
         ],
         "manufacturer": "soft & precious",
-        "class_id": 0,
-        "reason": "Baby Lotion Original mapped to Personal Care"
+        "class_id": 39,
+        "reason": "Baby Lotion Original mapped by AU to personal hygene"
     },
     {
         "keywords": [
@@ -222,8 +222,8 @@
             "creme"
         ],
         "manufacturer": "soft & precious",
-        "class_id": 0,
-        "reason": "Hair Moist Creme mapped to Personal Care"
+        "class_id": 78,
+        "reason": "Hair Moist Creme mapped by AU to conditioner"
     },
     {
         "keywords": [
@@ -232,8 +232,8 @@
             "detangling"
         ],
         "manufacturer": "soft & precious",
-        "class_id": 0,
-        "reason": "Hair Moisturizer Detangling mapped to Personal Care"
+        "class_id": 78,
+        "reason": "Hair Moisturizer Detangling mapped by AU to conditioner"
     },
     {
         "keywords": [
@@ -252,8 +252,8 @@
             "tea"
         ],
         "manufacturer": "snapple",
-        "class_id": 0,
-        "reason": "Diet Green Tea mapped to Tea"
+        "class_id": 52,
+        "reason": "Diet Green Tea mapped Flavored Drinks"
     },
     {
         "keywords": [
@@ -261,8 +261,8 @@
             "lemon"
         ],
         "manufacturer": "snapple",
-        "class_id": 0,
-        "reason": "Diet Lemon mapped to Tea"
+        "class_id": 52,
+        "reason": "Diet Lemon mapped to Flavored Drinks"
     },
     {
         "keywords": [
@@ -308,8 +308,8 @@
             "original"
         ],
         "manufacturer": "silk",
-        "class_id": 0,
-        "reason": "Almond Milk Original mapped to Non-Dairy Milk"
+        "class_id": 52,
+        "reason": "Almond Milk Original mapped by AU to flavored drinks"
     },
     {
         "keywords": [
@@ -318,8 +318,8 @@
             "chocolate"
         ],
         "manufacturer": "silk",
-        "class_id": 0,
-        "reason": "Soymilk Light Chocolate mapped to Non-Dairy Milk"
+        "class_id": 52,
+        "reason": "Soymilk Light Chocolate mapped to flavored drinks"
     },
     {
         "keywords": [
@@ -347,8 +347,8 @@
             "blue"
         ],
         "manufacturer": "scotch-brite",
-        "class_id": 0,
-        "reason": "Sponges Blue mapped to Cleaning Tools"
+        "class_id": 21,
+        "reason": "Sponges Blue mapped by AU to cleaners"
     },
     {
         "keywords": [
