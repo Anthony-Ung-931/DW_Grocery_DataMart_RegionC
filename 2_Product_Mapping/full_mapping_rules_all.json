@@ -347,7 +347,7 @@
             "blue"
         ],
         "manufacturer": "scotch-brite",
-        "class_id": 21,
+        "class_id": 42,
         "reason": "Sponges Blue mapped by AU to cleaners"
     },
     {
@@ -386,8 +386,8 @@
             "cheeseburgers"
         ],
         "manufacturer": "sandwich bros",
-        "class_id": 0,
-        "reason": "Flatbread Angus Cheeseburgers mapped to Frozen Entrees"
+        "class_id": 10,
+        "reason": "Flatbread Angus Cheeseburgers mapped by AU to TV Dinners"
     },
     {
         "keywords": [
@@ -396,8 +396,8 @@
             "melts"
         ],
         "manufacturer": "sandwich bros",
-        "class_id": 0,
-        "reason": "Flatbread Chicken Melts mapped to Frozen Entrees"
+        "class_id": 10,
+        "reason": "Flatbread Chicken Melts mapped by AU to TV Dinners"
     },
     {
         "keywords": [
@@ -564,8 +564,8 @@
             "bread"
         ],
         "manufacturer": "pepperidge farm",
-        "class_id": 0,
-        "reason": "Stuffing Corn Bread mapped to Prepared Foods"
+        "class_id": 4,
+        "reason": "Stuffing Corn Bread mapped by AU to parent category"
     },
     {
         "keywords": [
@@ -573,8 +573,8 @@
             "food"
         ],
         "manufacturer": "pedigree",
-        "class_id": 0,
-        "reason": "Dog Food mapped to Pet Supplies"
+        "class_id": 214,
+        "reason": "Dog Food mapped to Pet Food"
     },
     {
         "keywords": [
@@ -583,8 +583,8 @@
             "cherry"
         ],
         "manufacturer": "pediacare",
-        "class_id": 0,
-        "reason": "Cough & Congestion Cherry mapped to Medicines"
+        "class_id": 75,
+        "reason": "Cough & Congestion Cherry mapped to Cold Remedies"
     },
     {
         "keywords": [
@@ -752,8 +752,8 @@
             "reducer"
         ],
         "manufacturer": "motrin",
-        "class_id": 0,
-        "reason": "Pain Reliever/Fever Reducer mapped to Medicines"
+        "class_id": 71,
+        "reason": "Pain Reliever/Fever Reducer mapped by AU by Google Search"
     },
     {
         "keywords": [
@@ -810,8 +810,8 @@
             "drops"
         ],
         "manufacturer": "little tummys",
-        "class_id": 0,
-        "reason": "Gas Relief Drops mapped to Medicines"
+        "class_id": 39,
+        "reason": "Gas Relief Drops mapped by AU to Personal Care"
     },
     {
         "keywords": [
@@ -828,8 +828,8 @@
             "mouthwash"
         ],
         "manufacturer": "listerine",
-        "class_id": 0,
-        "reason": "Mouthwash mapped to Personal Care"
+        "class_id": 74,
+        "reason": "Mouthwash mapped directy by AU"
     },
     {
         "keywords": [
@@ -846,8 +846,8 @@
             "cheese"
         ],
         "manufacturer": "lean pockets",
-        "class_id": 0,
-        "reason": "Ham & Cheese mapped to Frozen Entrees"
+        "class_id": 64,
+        "reason": "Ham & Cheese mapped by AU to Frozen Pizza"
     },
     {
         "keywords": [
@@ -873,8 +873,8 @@
             "cravers"
         ],
         "manufacturer": "koch foods",
-        "class_id": 0,
-        "reason": "Oven Cravers mapped to Frozen Entrees"
+        "class_id": 10,
+        "reason": "Oven Cravers mapped to parent category"
     },
     {
         "keywords": [
@@ -882,8 +882,8 @@
             "stock"
         ],
         "manufacturer": "kitchen basics",
-        "class_id": 0,
-        "reason": "Cooking Stock mapped to Broth"
+        "class_id": 58,
+        "reason": "Cooking Stock is a broth which is a soup"
     },
     {
         "keywords": [
@@ -930,8 +930,8 @@
             "oil"
         ],
         "manufacturer": "johnsons",
-        "class_id": 0,
-        "reason": "Baby Oil mapped to Baby Care"
+        "class_id": 79,
+        "reason": "Baby Oil mapped by AU to shampoo"
     },
     {
         "keywords": [
@@ -1084,8 +1084,8 @@
             "effects"
         ],
         "manufacturer": "febreze",
-        "class_id": 0,
-        "reason": "Air Effects mapped to Air Fresheners"
+        "class_id": 20,
+        "reason": "Air Effects mapped by AU to deoderizers"
     },
     {
         "keywords": [
@@ -1173,8 +1173,8 @@
             "shampoo"
         ],
         "manufacturer": "delta",
-        "class_id": 0,
-        "reason": "Shampoo mapped to Baby Care"
+        "class_id": 79,
+        "reason": "Shampoo mapped by name"
     },
     {
         "keywords": [
@@ -1191,8 +1191,8 @@
             "toothpaste"
         ],
         "manufacturer": "crest",
-        "class_id": 0,
-        "reason": "Whitening Toothpaste mapped to Personal Care"
+        "class_id": 39,
+        "reason": "Whitening Toothpaste mapped to Personal Hygene"
     },
     {
         "keywords": [
@@ -1242,8 +1242,8 @@
             "chicken"
         ],
         "manufacturer": "college inn",
-        "class_id": 0,
-        "reason": "Broth Chicken mapped to Broth"
+        "class_id": 58,
+        "reason": "Broth Chicken is a soup"
     },
     {
         "keywords": [
@@ -1431,8 +1431,8 @@
             "milk"
         ],
         "manufacturer": "almond breeze",
-        "class_id": 0,
-        "reason": "Almond Milk mapped to Non-Dairy Milk"
+        "class_id": 52,
+        "reason": "Almond Milk mapped to Flavored Drinks"
     },
     {
         "keywords": [
@@ -1648,8 +1648,8 @@
             "saline"
         ],
         "manufacturer": "little noses",
-        "class_id": 0,
-        "reason": "Spray & Drops Saline mapped to Medicines"
+        "class_id": 73,
+        "reason": "Spray & Drops Saline is a nasal spray"
     },
     {
         "keywords": [
@@ -1944,8 +1944,8 @@
             "powder"
         ],
         "manufacturer": "johnsons",
-        "class_id": 0,
-        "reason": "Baby Powder mapped to Baby Care"
+        "class_id": 79,
+        "reason": "Baby Powder mapped to Shampoo"
     },
     {
         "keywords": [
@@ -1953,8 +1953,8 @@
             "shampoo"
         ],
         "manufacturer": "johnsons",
-        "class_id": 0,
-        "reason": "Baby Shampoo mapped to Baby Care"
+        "class_id": 79,
+        "reason": "Baby Shampoo mapped to Shampoo"
     },
     {
         "keywords": [
@@ -2277,8 +2277,8 @@
             "fresh"
         ],
         "manufacturer": "crest",
-        "class_id": 0,
-        "reason": "3D White Arctic Fresh mapped to Personal Care"
+        "class_id": 39,
+        "reason": "Toothpaste mapped to parent category"
     },
     {
         "keywords": [
