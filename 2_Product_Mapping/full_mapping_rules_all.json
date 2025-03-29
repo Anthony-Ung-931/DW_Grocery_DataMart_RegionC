@@ -1,2445 +1,3492 @@
 [
     {
-      "keywords": ["jambalaya", "rice", "mix"],
+      "keywords": [
+        "mix",
+        "rice",
+        "jambalaya"
+      ],
       "manufacturer": "zatarains",
       "class_id": 57,
-      "reason": "Zatarains Jambalaya Rice Mix mapped to Rice"
+      "reason": "Zatarains Jambalaya Rice Mix mapped to Rice",
+      "meta_code": 100
     },
     {
-      "keywords": ["guacamole", "regular"],
+      "keywords": [
+        "mix",
+        "rice",
+        "jambalaya"
+      ],
+      "manufacturer": "zatarains",
+      "class_id": 57,
+      "reason": "Zatarains Jambalaya Rice Mix mapped to Rice",
+      "meta_code": 100
+    },
+    {
+      "keywords": [
+        "regular",
+        "guacamole"
+      ],
       "manufacturer": "yucatan",
       "class_id": 83,
-      "reason": "Yucatan Guacamole mapped to Dips"
+      "reason": "Yucatan Guacamole mapped to Dips",
+      "meta_code": 101
     },
     {
-      "keywords": ["cheeseburger", "heat", "serve", "sliders"],
+      "keywords": [
+        "cheeseburger",
+        "serve",
+        "sliders",
+        "heat"
+      ],
       "manufacturer": "white castle",
       "class_id": 10,
-      "reason": "White Castle Sliders mapped by AU to frozen entrees"
+      "reason": "White Castle Sliders mapped to Frozen Entrees",
+      "meta_code": 102
     },
     {
-      "keywords": ["farmers", "pick", "concord", "grape"],
+      "keywords": [
+        "concord",
+        "pick",
+        "grape",
+        "farmers"
+      ],
       "manufacturer": "welchs",
       "class_id": 30,
-      "reason": "Welchs Concord Grape mapped to Juice"
+      "reason": "Welchs Concord Grape mapped to Juice",
+      "meta_code": 103
     },
     {
-      "keywords": ["shells", "cheese"],
+      "keywords": [
+        "cup",
+        "microwave",
+        "cheese",
+        "shells"
+      ],
       "manufacturer": "velveeta",
       "class_id": 11,
-      "reason": "Velveeta Shells & Cheese mapped to Cheese"
+      "reason": "Velveeta Shells & Cheese mapped to Cheese",
+      "meta_code": 104
     },
     {
-      "keywords": ["hot", "cocoa", "mix"],
+      "keywords": [
+        "original",
+        "cheese",
+        "shells"
+      ],
+      "manufacturer": "velveeta",
+      "class_id": 11,
+      "reason": "Velveeta Shells & Cheese mapped to Cheese",
+      "meta_code": 104
+    },
+    {
+      "keywords": [
+        "iced",
+        "lemon",
+        "tea"
+      ],
+      "manufacturer": "turkey hill",
+      "class_id": 52,
+      "reason": "Iced Tea Lemon mapped to Flavored Drinks",
+      "meta_code": 105
+    },
+    {
+      "keywords": [
+        "hot",
+        "marshmallows",
+        "mix",
+        "cocoa"
+      ],
       "manufacturer": "swiss miss",
       "class_id": 51,
-      "reason": "Swiss Miss Hot Cocoa Mix mapped to Hot Beverages"
+      "reason": "Swiss Miss Hot Cocoa Mix mapped to Hot Beverages",
+      "meta_code": 106
     },
     {
-      "keywords": ["cleaner"],
+      "keywords": [
+        "milk",
+        "hot",
+        "cocoa",
+        "mix",
+        "chocolate"
+      ],
+      "manufacturer": "swiss miss",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 106
+    },
+    {
+      "keywords": [
+        "milk",
+        "hot",
+        "canister",
+        "cocoa",
+        "mix",
+        "chocolate"
+      ],
+      "manufacturer": "swiss miss",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 106
+    },
+    {
+      "keywords": [
+        "milk",
+        "hot",
+        "added",
+        "cocoa",
+        "no",
+        "mix",
+        "chocolate",
+        "sugar"
+      ],
+      "manufacturer": "swiss miss",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 106
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "counter",
+        "sunset"
+      ],
       "manufacturer": "sunset",
       "class_id": 21,
-      "reason": "Sunset cleaner mapped to Cleaners"
+      "reason": "Sunset cleaner mapped to Cleaners",
+      "meta_code": 107
     },
     {
-      "keywords": ["sunny", "delight"],
-      "manufacturer": "sunny d",
-      "class_id": 52,
-      "reason": "Sunny D mapped to Flavored Drinks"
+      "keywords": [
+        "cleaner",
+        "glass",
+        "sunset"
+      ],
+      "manufacturer": "sunset",
+      "class_id": 21,
+      "reason": "Sunset cleaner mapped to Cleaners",
+      "meta_code": 107
     },
     {
-      "keywords": ["sunny", "delight"],
+      "keywords": [
+        "cleaner",
+        "bowl",
+        "toilet",
+        "sunset"
+      ],
+      "manufacturer": "sunset",
+      "class_id": 21,
+      "reason": "Sunset cleaner mapped to Cleaners",
+      "meta_code": 107
+    },
+    {
+      "keywords": [
+        "delight",
+        "original",
+        "sunny"
+      ],
       "manufacturer": "sunny delight drinks",
       "class_id": 52,
-      "reason": "Sunny Delight Drinks mapped to Flavored Drinks"
+      "reason": "Sunny Delight Drinks mapped to Flavored Drinks",
+      "meta_code": 108
     },
     {
-      "keywords": ["bread"],
+      "keywords": [
+        "smooth",
+        "citrus",
+        "punch",
+        "orange"
+      ],
+      "manufacturer": "sunny d",
+      "class_id": 30,
+      "reason": "Orange Citrus Punch Smooth mapped to Juice",
+      "meta_code": 109
+    },
+    {
+      "keywords": [
+        "citrus",
+        "tangy",
+        "orange",
+        "original",
+        "punch"
+      ],
+      "manufacturer": "sunny d",
+      "class_id": 30,
+      "reason": "Orange Citrus Punch Tangy Original mapped to Juice",
+      "meta_code": 110
+    },
+    {
+      "keywords": [
+        "raisin",
+        "bread"
+      ],
       "manufacturer": "sun-maid",
       "class_id": 27,
-      "reason": "Bread product mapped to Sliced Bread"
+      "reason": "Bread product mapped to Sliced Bread",
+      "meta_code": 111
     },
     {
-      "keywords": ["bread"],
+      "keywords": [
+        "bread",
+        "giant"
+      ],
       "manufacturer": "sunbeam",
       "class_id": 27,
-      "reason": "Bread product mapped to Sliced Bread"
+      "reason": "Bread product mapped to Sliced Bread",
+      "meta_code": 111
     },
     {
-      "keywords": ["bread"],
+      "keywords": [
+        "honey",
+        "bread",
+        "wheat"
+      ],
       "manufacturer": "stroehmann",
       "class_id": 27,
-      "reason": "Bread product mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "iced",
-            "tea",
-            "lemon"
-        ],
-        "manufacturer": "turkey hill",
-        "class_id": 52,
-        "reason": "Iced Tea Lemon mapped to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "orange",
-            "citrus",
-            "punch",
-            "smooth"
-        ],
-        "manufacturer": "sunny d",
-        "class_id": 30,
-        "reason": "Orange Citrus Punch Smooth mapped to Juice"
-    },
-    {
-        "keywords": [
-            "orange",
-            "citrus",
-            "punch",
-            "tangy",
-            "original"
-        ],
-        "manufacturer": "sunny d",
-        "class_id": 30,
-        "reason": "Orange Citrus Punch Tangy Original mapped to Juice"
-    },
-    {
-        "keywords": [
-            "stuffing",
-            "mix",
-            "pork"
-        ],
-        "manufacturer": "stove top",
-        "class_id": 4,
-        "reason": "Stuffing Mix mapped by AU to spices"
-    },
-    {
-        "keywords": [
-            "sandwich",
-            "steaks",
-            "thin",
-            "sliced"
-        ],
-        "manufacturer": "steakumm",
-        "class_id": 8,
-        "reason": "Sandwich Steaks Thin Sliced mapped to Deli Meats"
-    },
-    {
-        "keywords": [
-            "chunk",
-            "light",
-            "tuna",
-            "water",
-            "(pouch)"
-        ],
-        "manufacturer": "starkist",
-        "class_id": 93,
-        "reason": "Chunk Light Tuna Water (pouch) mapped to Canned Tuna"
-    },
-    {
-        "keywords": [
-            "hot",
-            "cocoa",
-            "mix",
-            "premium",
-            "double",
-            "chocolate"
-        ],
-        "manufacturer": "starbucks",
-        "class_id": 51,
-        "reason": "Hot Cocoa Mix Premium Double Chocolate mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "hot",
-            "cocoa",
-            "mix",
-            "salted",
-            "caramel"
-        ],
-        "manufacturer": "starbucks",
-        "class_id": 51,
-        "reason": "Hot Cocoa Mix Salted Caramel mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "hot",
-            "cocoa",
-            "mix",
-            "vanilla",
-            "brulee"
-        ],
-        "manufacturer": "starbucks",
-        "class_id": 51,
-        "reason": "Hot Cocoa Mix Vanilla Brulee mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "vinegar",
-            "balsamic"
-        ],
-        "manufacturer": "star",
-        "class_id": 48,
-        "reason": "Vinegar Balsamic mapped to Sauces"
-    },
-    {
-        "keywords": [
-            "sparkling",
-            "spring",
-            "water",
-            "pomegranate",
-            "berry"
-        ],
-        "manufacturer": "sparkling ice",
-        "class_id": 52,
-        "reason": "Sparkling Spring Water Pomegranate Berry mapped to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "soy",
-            "milk",
-            "vanilla"
-        ],
-        "manufacturer": "soy dream",
-        "class_id": 52,
-        "reason": "Soy Milk Vanilla mapped by AU to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "baby",
-            "lotion",
-            "original"
-        ],
-        "manufacturer": "soft & precious",
-        "class_id": 39,
-        "reason": "Baby Lotion Original mapped by AU to personal hygene"
-    },
-    {
-        "keywords": [
-            "hair",
-            "moist",
-            "creme"
-        ],
-        "manufacturer": "soft & precious",
-        "class_id": 78,
-        "reason": "Hair Moist Creme mapped by AU to conditioner"
-    },
-    {
-        "keywords": [
-            "hair",
-            "moisturizer",
-            "detangling"
-        ],
-        "manufacturer": "soft & precious",
-        "class_id": 78,
-        "reason": "Hair Moisturizer Detangling mapped by AU to conditioner"
-    },
-    {
-        "keywords": [
-            "tortilla",
-            "chips",
-            "original"
-        ],
-        "manufacturer": "snyders of hanover",
-        "class_id": 12,
-        "reason": "Tortilla Chips Original mapped to Snack Foods"
-    },
-    {
-        "keywords": [
-            "diet",
-            "green",
-            "tea"
-        ],
-        "manufacturer": "snapple",
-        "class_id": 52,
-        "reason": "Diet Green Tea mapped Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "diet",
-            "lemon"
-        ],
-        "manufacturer": "snapple",
-        "class_id": 52,
-        "reason": "Diet Lemon mapped to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "jam",
-            "grape"
-        ],
-        "manufacturer": "smuckers",
-        "class_id": 94,
-        "reason": "Jam Grape mapped to Jam/Jelly"
-    },
-    {
-        "keywords": [
-            "jam",
-            "strawberry"
-        ],
-        "manufacturer": "smuckers",
-        "class_id": 94,
-        "reason": "Jam Strawberry mapped to Jam/Jelly"
-    },
-    {
-        "keywords": [
-            "jelly",
-            "grape"
-        ],
-        "manufacturer": "smuckers",
-        "class_id": 94,
-        "reason": "Jelly Grape mapped to Jam/Jelly"
-    },
-    {
-        "keywords": [
-            "squeeze",
-            "jelly",
-            "grape"
-        ],
-        "manufacturer": "smuckers",
-        "class_id": 94,
-        "reason": "Squeeze Jelly Grape mapped to Jam/Jelly"
-    },
-    {
-        "keywords": [
-            "almond",
-            "milk",
-            "original"
-        ],
-        "manufacturer": "silk",
-        "class_id": 52,
-        "reason": "Almond Milk Original mapped by AU to flavored drinks"
-    },
-    {
-        "keywords": [
-            "soymilk",
-            "light",
-            "chocolate"
-        ],
-        "manufacturer": "silk",
-        "class_id": 52,
-        "reason": "Soymilk Light Chocolate mapped to flavored drinks"
-    },
-    {
-        "keywords": [
-            "all",
-            "purpose",
-            "cleaner",
-            "bleach"
-        ],
-        "manufacturer": "scrubbing bubbles",
-        "class_id": 21,
-        "reason": "All Purpose Cleaner Bleach mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "shower",
-            "cleaner"
-        ],
-        "manufacturer": "scrubbing bubbles",
-        "class_id": 21,
-        "reason": "Shower Cleaner mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "sponges",
-            "blue"
-        ],
-        "manufacturer": "scotch-brite",
-        "class_id": 42,
-        "reason": "Sponges Blue mapped by AU to cleaners"
-    },
-    {
-        "keywords": [
-            "bread",
-            "amazin",
-            "raisin"
-        ],
-        "manufacturer": "schmidt",
-        "class_id": 27,
-        "reason": "Bread Amazin Raisin mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "tastings",
-            "medium",
-            "asiago"
-        ],
-        "manufacturer": "sargento",
-        "class_id": 11,
-        "reason": "Tastings Medium Asiago mapped to Cheese"
-    },
-    {
-        "keywords": [
-            "tastings",
-            "parmentino"
-        ],
-        "manufacturer": "sargento",
-        "class_id": 11,
-        "reason": "Tastings Parmentino mapped to Cheese"
-    },
-    {
-        "keywords": [
-            "flatbread",
-            "angus",
-            "cheeseburgers"
-        ],
-        "manufacturer": "sandwich bros",
-        "class_id": 10,
-        "reason": "Flatbread Angus Cheeseburgers mapped by AU to TV Dinners"
-    },
-    {
-        "keywords": [
-            "flatbread",
-            "chicken",
-            "melts"
-        ],
-        "manufacturer": "sandwich bros",
-        "class_id": 10,
-        "reason": "Flatbread Chicken Melts mapped by AU to TV Dinners"
-    },
-    {
-        "keywords": [
-            "bread",
-            "raisin"
-        ],
-        "manufacturer": "safeway",
-        "class_id": 27,
-        "reason": "Bread Raisin mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "bread",
-            "texas",
-            "toast"
-        ],
-        "manufacturer": "safeway",
-        "class_id": 27,
-        "reason": "Bread Texas Toast mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "sugar",
-            "white"
-        ],
-        "manufacturer": "rowan",
-        "class_id": 92,
-        "reason": "Sugar White mapped to Sugar"
-    },
-    {
-        "keywords": [
-            "pretzels",
-            "honey",
-            "wheat",
-            "rods"
-        ],
-        "manufacturer": "rolled gold",
-        "class_id": 12,
-        "reason": "Pretzels Honey Wheat Rods mapped to Snack Foods"
-    },
-    {
-        "keywords": [
-            "peanut",
-            "butter",
-            "cups",
-            "king",
-            "size"
-        ],
-        "manufacturer": "reeses",
-        "class_id": 45,
-        "reason": "Peanut Butter Cups King Size mapped to Candy"
-    },
-    {
-        "keywords": [
-            "counter",
-            "cleaner"
-        ],
-        "manufacturer": "red wing",
-        "class_id": 21,
-        "reason": "Counter Cleaner mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "glass",
-            "cleaner"
-        ],
-        "manufacturer": "red wing",
-        "class_id": 21,
-        "reason": "Glass Cleaner mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "toilet",
-            "bowl",
-            "cleaner"
-        ],
-        "manufacturer": "red wing",
-        "class_id": 21,
-        "reason": "Toilet Bowl Cleaner mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "real",
-            "medley",
-            "bars"
-        ],
-        "manufacturer": "quaker",
-        "class_id": 64,
-        "reason": "Real Medley Bars mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "granola",
-            "bars",
-            "chewy",
-            "chocolate",
-            "chip"
-        ],
-        "manufacturer": "quaker",
-        "class_id": 64,
-        "reason": "Granola Bars Chewy Chocolate Chip mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "sausage",
-            "pork"
-        ],
-        "manufacturer": "purnell",
-        "class_id": 8,
-        "reason": "Sausage Pork mapped to Deli Meats"
-    },
-    {
-        "keywords": [
-            "lettuce",
-            "head"
-        ],
-        "manufacturer": "produce",
-        "class_id": 13,
-        "reason": "Lettuce Head mapped to Fresh Vegetables"
-    },
-    {
-        "keywords": [
-            "turnip",
-            "greens",
-            "vegetables"
-        ],
-        "manufacturer": "produce",
-        "class_id": 13,
-        "reason": "Turnip Greens Vegetables mapped to Fresh Vegetables"
-    },
-    {
-        "keywords": [
-            "biscuits",
-            "buttermilk"
-        ],
-        "manufacturer": "pillsbury",
-        "class_id": 26,
-        "reason": "Biscuits Buttermilk mapped to Biscuits"
-    },
-    {
-        "keywords": [
-            "hamburgers",
-            "pure",
-            "beef"
-        ],
-        "manufacturer": "philly gourmet",
-        "class_id": 8,
-        "reason": "Hamburgers Pure Beef mapped to Deli Meats"
-    },
-    {
-        "keywords": [
-            "evaporated",
-            "milk",
-            "original"
-        ],
-        "manufacturer": "pet",
-        "class_id": 11,
-        "reason": "Evaporated Milk Original mapped to Milk"
-    },
-    {
-        "keywords": [
-            "stuffing",
-            "corn",
-            "bread"
-        ],
-        "manufacturer": "pepperidge farm",
-        "class_id": 4,
-        "reason": "Stuffing Corn Bread mapped by AU to parent category"
-    },
-    {
-        "keywords": [
-            "dog",
-            "food"
-        ],
-        "manufacturer": "pedigree",
-        "class_id": 214,
-        "reason": "Dog Food mapped to Pet Food"
-    },
-    {
-        "keywords": [
-            "cough",
-            "congestion",
-            "cherry"
-        ],
-        "manufacturer": "pediacare",
-        "class_id": 75,
-        "reason": "Cough & Congestion Cherry mapped to Cold Remedies"
-    },
-    {
-        "keywords": [
-            "hot",
-            "cocoa",
-            "mix"
-        ],
-        "manufacturer": "pantry essentials",
-        "class_id": 51,
-        "reason": "Hot Cocoa Mix mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "laundry",
-            "detergent"
-        ],
-        "manufacturer": "oxi clean",
-        "class_id": 21,
-        "reason": "Laundry Detergent mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "drink",
-            "mix",
-            "chocolate",
-            "malt"
-        ],
-        "manufacturer": "ovaltine",
-        "class_id": 51,
-        "reason": "Drink Mix Chocolate Malt mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "hot",
-            "dogs"
-        ],
-        "manufacturer": "oscar mayer",
-        "class_id": 81,
-        "reason": "Hot Dogs mapped to Hot Dogs"
-    },
-    {
-        "keywords": [
-            "microwave",
-            "popcorn",
-            "butter"
-        ],
-        "manufacturer": "orville redenbachers",
-        "class_id": 12,
-        "reason": "Microwave Popcorn Butter mapped to Snack Foods"
-    },
-    {
-        "keywords": [
-            "french",
-            "fries",
-            "shoestring"
-        ],
-        "manufacturer": "ore ida",
-        "class_id": 4,
-        "reason": "French Fries Shoestring mapped to Frozen Potatoes"
-    },
-    {
-        "keywords": [
-            "meatballs",
-            "angus",
-            "beef"
-        ],
-        "manufacturer": "open nature",
-        "class_id": 8,
-        "reason": "Meatballs Angus Beef mapped to Deli Meats"
-    },
-    {
-        "keywords": [
-            "taco",
-            "seasoning",
-            "original"
-        ],
-        "manufacturer": "old el paso",
-        "class_id": 48,
-        "reason": "Taco Seasoning Original mapped to Spices/Seasoning"
-    },
-    {
-        "keywords": [
-            "craisins",
-            "original"
-        ],
-        "manufacturer": "ocean spray",
-        "class_id": 82,
-        "reason": "Craisins Original mapped to Dried Fruit"
-    },
-    {
-        "keywords": [
-            "spread",
-            "hazelnut"
-        ],
-        "manufacturer": "nutella",
-        "class_id": 48,
-        "reason": "Spread Hazelnut mapped to Spread"
-    },
-    {
-        "keywords": [
-            "hot",
-            "cocoa",
-            "mix",
-            "milk",
-            "chocolate"
-        ],
-        "manufacturer": "nestle",
-        "class_id": 51,
-        "reason": "Hot Cocoa Mix Milk Chocolate mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "milk",
-            "banana",
-            "strawberry"
-        ],
-        "manufacturer": "nestle",
-        "class_id": 11,
-        "reason": "Milk Banana Strawberry mapped to Milk"
-    },
-    {
-        "keywords": [
-            "tea",
-            "instant"
-        ],
-        "manufacturer": "nestea",
-        "class_id": 52,
-        "reason": "Tea Instant mapped to Tea"
-    },
-    {
-        "keywords": [
-            "drink",
-            "mix",
-            "chocolate"
-        ],
-        "manufacturer": "nesquik",
-        "class_id": 52,
-        "reason": "Drink Mix Chocolate mapped to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "bread",
-            "cinnamon",
-            "raisin",
-            "swirl"
-        ],
-        "manufacturer": "natures own",
-        "class_id": 27,
-        "reason": "Bread Cinnamon Raisin Swirl mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "applesauce",
-            "cinnamon"
-        ],
-        "manufacturer": "motts",
-        "class_id": 82,
-        "reason": "Applesauce Cinnamon mapped to Canned Fruit"
-    },
-    {
-        "keywords": [
-            "pain",
-            "reliever",
-            "fever",
-            "reducer"
-        ],
-        "manufacturer": "motrin",
-        "class_id": 71,
-        "reason": "Pain Reliever/Fever Reducer mapped by AU by Google Search"
-    },
-    {
-        "keywords": [
-            "salt",
-            "kosher"
-        ],
-        "manufacturer": "morton",
-        "class_id": 92,
-        "reason": "Salt Kosher mapped to Salt"
-    },
-    {
-        "keywords": [
-            "salt",
-            "coarse"
-        ],
-        "manufacturer": "morton",
-        "class_id": 92,
-        "reason": "Salt Coarse mapped to Salt"
-    },
-    {
-        "keywords": [
-            "coolers",
-            "fruit",
-            "punch"
-        ],
-        "manufacturer": "minute maid",
-        "class_id": 30,
-        "reason": "Coolers Fruit Punch mapped to Juice"
-    },
-    {
-        "keywords": [
-            "vanilla,",
-            "butter",
-            "nut",
-            "extract"
-        ],
-        "manufacturer": "mccormick",
-        "class_id": 48,
-        "reason": "Vanilla, Butter & Nut Extract mapped to Flavoring"
-    },
-    {
-        "keywords": [
-            "rice",
-            "brown"
-        ],
-        "manufacturer": "mahatma",
-        "class_id": 57,
-        "reason": "Rice Brown mapped to Rice"
-    },
-    {
-        "keywords": [
-            "gas",
-            "relief",
-            "drops"
-        ],
-        "manufacturer": "little tummys",
-        "class_id": 39,
-        "reason": "Gas Relief Drops mapped by AU to Personal Care"
-    },
-    {
-        "keywords": [
-            "oatmeal",
-            "cream",
-            "pies"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Oatmeal Cream Pies mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "mouthwash"
-        ],
-        "manufacturer": "listerine",
-        "class_id": 74,
-        "reason": "Mouthwash mapped directy by AU"
-    },
-    {
-        "keywords": [
-            "tea",
-            "bags"
-        ],
-        "manufacturer": "lipton",
-        "class_id": 52,
-        "reason": "Tea Bags mapped to Tea"
-    },
-    {
-        "keywords": [
-            "ham",
-            "cheese"
-        ],
-        "manufacturer": "lean pockets",
-        "class_id": 64,
-        "reason": "Ham & Cheese mapped by AU to Frozen Pizza"
-    },
-    {
-        "keywords": [
-            "bread",
-            "crumbs"
-        ],
-        "manufacturer": "kroger",
-        "class_id": 5,
-        "reason": "Bread Crumbs mapped to Baking"
-    },
-    {
-        "keywords": [
-            "mac",
-            "cheese"
-        ],
-        "manufacturer": "kraft",
-        "class_id": 4,
-        "reason": "Mac & Cheese mapped to Boxed Meals"
-    },
-    {
-        "keywords": [
-            "oven",
-            "cravers"
-        ],
-        "manufacturer": "koch foods",
-        "class_id": 10,
-        "reason": "Oven Cravers mapped to parent category"
-    },
-    {
-        "keywords": [
-            "cooking",
-            "stock"
-        ],
-        "manufacturer": "kitchen basics",
-        "class_id": 58,
-        "reason": "Cooking Stock is a broth which is a soup"
-    },
-    {
-        "keywords": [
-            "flour",
-            "all",
-            "purpose"
-        ],
-        "manufacturer": "king arthur",
-        "class_id": 91,
-        "reason": "Flour All Purpose mapped to Flour"
-    },
-    {
-        "keywords": [
-            "eggo",
-            "pancakes"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 26,
-        "reason": "Eggo Pancakes mapped to Frozen Breakfast"
-    },
-    {
-        "keywords": [
-            "nutri",
-            "grain",
-            "bars"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Nutri Grain Bars mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "rice",
-            "krispies",
-            "treats"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Rice Krispies Treats mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "baby",
-            "oil"
-        ],
-        "manufacturer": "johnsons",
-        "class_id": 79,
-        "reason": "Baby Oil mapped by AU to shampoo"
-    },
-    {
-        "keywords": [
-            "cake",
-            "mix"
-        ],
-        "manufacturer": "jiffy",
-        "class_id": 86,
-        "reason": "Cake Mix mapped to Baking Mixes"
-    },
-    {
-        "keywords": [
-            "mashed",
-            "potatoes"
-        ],
-        "manufacturer": "idahoan",
-        "class_id": 57,
-        "reason": "Mashed Potatoes mapped to Potato Products"
-    },
-    {
-        "keywords": [
-            "sour",
-            "cream"
-        ],
-        "manufacturer": "hunts",
-        "class_id": 11,
-        "reason": "Sour Cream mapped to Dairy"
-    },
-    {
-        "keywords": [
-            "cake",
-            "ding",
-            "dongs"
-        ],
-        "manufacturer": "hostess",
-        "class_id": 45,
-        "reason": "Cake Ding Dongs mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "pie",
-            "apple"
-        ],
-        "manufacturer": "hostess",
-        "class_id": 45,
-        "reason": "Pie Apple mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cleaner"
-        ],
-        "manufacturer": "high quality",
-        "class_id": 21,
-        "reason": "Cleaner mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "salsa",
-            "mild"
-        ],
-        "manufacturer": "herdez",
-        "class_id": 48,
-        "reason": "Salsa Mild mapped to Sauces"
-    },
-    {
-        "keywords": [
-            "ketchup",
-            "original"
-        ],
-        "manufacturer": "heinz",
-        "class_id": 48,
-        "reason": "Ketchup Original mapped to Condiments"
-    },
-    {
-        "keywords": [
-            "punch",
-            "mixed",
-            "berry"
-        ],
-        "manufacturer": "hawaiian punch",
-        "class_id": 30,
-        "reason": "Punch Mixed Berry mapped to Juice"
-    },
-    {
-        "keywords": [
-            "flavor",
-            "straws"
-        ],
-        "manufacturer": "got milk",
-        "class_id": 52,
-        "reason": "Flavor Straws mapped to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "cookies",
-            "chocolate"
-        ],
-        "manufacturer": "glutino",
-        "class_id": 45,
-        "reason": "Cookies Chocolate mapped to Cookies"
-    },
-    {
-        "keywords": [
-            "vitamin",
-            "water"
-        ],
-        "manufacturer": "glaceau",
-        "class_id": 52,
-        "reason": "Vitamin Water mapped to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "popcorners"
-        ],
-        "manufacturer": "gefen",
-        "class_id": 12,
-        "reason": "PopCorners mapped to Snack Foods"
-    },
-    {
-        "keywords": [
-            "g2",
-            "lime"
-        ],
-        "manufacturer": "gatorade",
-        "class_id": 52,
-        "reason": "G2 Lime mapped to Sports Drinks"
-    },
-    {
-        "keywords": [
-            "bread",
-            "cinnamon",
-            "raisin"
-        ],
-        "manufacturer": "food for life",
-        "class_id": 27,
-        "reason": "Bread Cinnamon Raisin mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "bread",
-            "mix"
-        ],
-        "manufacturer": "fleischmanns",
-        "class_id": 91,
-        "reason": "Bread Mix mapped to Baking Mixes"
-    },
-    {
-        "keywords": [
-            "air",
-            "effects"
-        ],
-        "manufacturer": "febreze",
-        "class_id": 20,
-        "reason": "Air Effects mapped by AU to deoderizers"
-    },
-    {
-        "keywords": [
-            "cake",
-            "chocolate",
-            "fudge"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Chocolate Fudge mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cookies",
-            "chocolate",
-            "chip"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cookies Chocolate Chip mapped to Cookies"
-    },
-    {
-        "keywords": [
-            "little",
-            "bites"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Little Bites mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "pie",
-            "apple"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Pie Apple mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "pie",
-            "key",
-            "lime"
-        ],
-        "manufacturer": "edwards",
-        "class_id": 45,
-        "reason": "Pie Key Lime mapped to Frozen Desserts"
-    },
-    {
-        "keywords": [
-            "shortbread",
-            "cookies"
-        ],
-        "manufacturer": "eating right",
-        "class_id": 45,
-        "reason": "Shortbread Cookies mapped to Cookies"
-    },
-    {
-        "keywords": [
-            "cake"
-        ],
-        "manufacturer": "drakes",
-        "class_id": 45,
-        "reason": "Cake mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "bananas"
-        ],
-        "manufacturer": "dole",
-        "class_id": 13,
-        "reason": "Bananas mapped to Fresh Fruit"
-    },
-    {
-        "keywords": [
-            "cleaner"
-        ],
-        "manufacturer": "denny",
-        "class_id": 21,
-        "reason": "Cleaner mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "shampoo"
-        ],
-        "manufacturer": "delta",
-        "class_id": 79,
-        "reason": "Shampoo mapped by name"
-    },
-    {
-        "keywords": [
-            "fruit",
-            "cup"
-        ],
-        "manufacturer": "del monte",
-        "class_id": 82,
-        "reason": "Fruit Cup mapped to Canned Fruit"
-    },
-    {
-        "keywords": [
-            "whitening",
-            "toothpaste"
-        ],
-        "manufacturer": "crest",
-        "class_id": 39,
-        "reason": "Whitening Toothpaste mapped to Personal Hygene"
-    },
-    {
-        "keywords": [
-            "pasta",
-            "lasagna"
-        ],
-        "manufacturer": "creamette",
-        "class_id": 5,
-        "reason": "Pasta Lasagna mapped to Pasta"
-    },
-    {
-        "keywords": [
-            "lemonade"
-        ],
-        "manufacturer": "country time",
-        "class_id": 30,
-        "reason": "Lemonade mapped to Juice"
-    },
-    {
-        "keywords": [
-            "spread",
-            "original"
-        ],
-        "manufacturer": "country crock",
-        "class_id": 11,
-        "reason": "Spread Original mapped to Dairy"
-    },
-    {
-        "keywords": [
-            "cleaner"
-        ],
-        "manufacturer": "cormorant",
-        "class_id": 21,
-        "reason": "Cleaner mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "tomatoes"
-        ],
-        "manufacturer": "con agar foods",
-        "class_id": 82,
-        "reason": "Tomatoes mapped to Canned Veg"
-    },
-    {
-        "keywords": [
-            "broth",
-            "chicken"
-        ],
-        "manufacturer": "college inn",
-        "class_id": 58,
-        "reason": "Broth Chicken is a soup"
-    },
-    {
-        "keywords": [
-            "wipes",
-            "lemon",
-            "fresh"
-        ],
-        "manufacturer": "clorox",
-        "class_id": 21,
-        "reason": "Wipes Lemon Fresh mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "bleach"
-        ],
-        "manufacturer": "clorox",
-        "class_id": 21,
-        "reason": "Bleach mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "snack",
-            "mix"
-        ],
-        "manufacturer": "chex mix",
-        "class_id": 12,
-        "reason": "Snack Mix mapped to Snack Foods"
-    },
-    {
-        "keywords": [
-            "beefaroni"
-        ],
-        "manufacturer": "chef boyardee",
-        "class_id": 4,
-        "reason": "Beefaroni mapped to Canned Pasta"
-    },
-    {
-        "keywords": [
-            "mini",
-            "bites"
-        ],
-        "manufacturer": "chef boyardee",
-        "class_id": 4,
-        "reason": "Mini Bites mapped to Canned Pasta"
-    },
-    {
-        "keywords": [
-            "ravioli"
-        ],
-        "manufacturer": "chef boyardee",
-        "class_id": 4,
-        "reason": "Ravioli mapped to Canned Pasta"
-    },
-    {
-        "keywords": [
-            "malted",
-            "milk"
-        ],
-        "manufacturer": "carnation",
-        "class_id": 51,
-        "reason": "Malted Milk mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "cooler"
-        ],
-        "manufacturer": "capri sun",
-        "class_id": 30,
-        "reason": "Cooler mapped to Juice"
-    },
-    {
-        "keywords": [
-            "potato",
-            "chips"
-        ],
-        "manufacturer": "cape cod",
-        "class_id": 12,
-        "reason": "Potato Chips mapped to Chips"
-    },
-    {
-        "keywords": [
-            "soup"
-        ],
-        "manufacturer": "campbells",
-        "class_id": 3,
-        "reason": "Soup mapped to Soups"
-    },
-    {
-        "keywords": [
-            "gravy"
-        ],
-        "manufacturer": "campbells",
-        "class_id": 48,
-        "reason": "Gravy mapped to Condiments"
-    },
-    {
-        "keywords": [
-            "spaghetti",
-            "o's"
-        ],
-        "manufacturer": "campbells",
-        "class_id": 4,
-        "reason": "Spaghetti O's mapped to Canned Pasta"
-    },
-    {
-        "keywords": [
-            "burger"
-        ],
-        "manufacturer": "bubba",
-        "class_id": 8,
-        "reason": "Burger mapped to Deli Meats"
-    },
-    {
-        "keywords": [
-            "condensed",
-            "milk"
-        ],
-        "manufacturer": "borden",
-        "class_id": 11,
-        "reason": "Condensed Milk mapped to Milk"
-    },
-    {
-        "keywords": [
-            "soda"
-        ],
-        "manufacturer": "big k",
-        "class_id": 52,
-        "reason": "Soda mapped to Soft Drinks"
-    },
-    {
-        "keywords": [
-            "fruit",
-            "snacks"
-        ],
-        "manufacturer": "betty crocker",
-        "class_id": 45,
-        "reason": "Fruit Snacks mapped to Fruit Snacks"
-    },
-    {
-        "keywords": [
-            "chicken"
-        ],
-        "manufacturer": "banquet",
-        "class_id": 8,
-        "reason": "Chicken mapped to Frozen Meat"
-    },
-    {
-        "keywords": [
-            "scramble"
-        ],
-        "manufacturer": "atkins",
-        "class_id": 8,
-        "reason": "Scramble mapped to Frozen Breakfast"
-    },
-    {
-        "keywords": [
-            "coconut",
-            "milk"
-        ],
-        "manufacturer": "asian gourmet",
-        "class_id": 11,
-        "reason": "Coconut Milk mapped to Milk"
-    },
-    {
-        "keywords": [
-            "sandwich",
-            "thins"
-        ],
-        "manufacturer": "arnold",
-        "class_id": 27,
-        "reason": "Sandwich Thins mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "drink",
-            "mix"
-        ],
-        "manufacturer": "alpine",
-        "class_id": 52,
-        "reason": "Drink Mix mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "almond",
-            "milk"
-        ],
-        "manufacturer": "almond breeze",
-        "class_id": 52,
-        "reason": "Almond Milk mapped to Flavored Drinks"
-    },
-    {
-        "keywords": [
-            "snack",
-            "cakes"
-        ],
-        "manufacturer": "all but gluten",
-        "class_id": 45,
-        "reason": "Snack Cakes mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "detergent"
-        ],
-        "manufacturer": "all laundry",
-        "class_id": 21,
-        "reason": "Detergent mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "gourmet",
-            "griller"
-        ],
-        "manufacturer": "al fresco",
-        "class_id": 8,
-        "reason": "Gourmet Griller mapped to Frozen Meat"
-    },
-    {
-        "keywords": [
-            "meatballs"
-        ],
-        "manufacturer": "aidells",
-        "class_id": 8,
-        "reason": "Meatballs mapped to Deli Meats"
-    },
-    {
-        "keywords": [
-            "popcorn",
-            "butter"
-        ],
-        "manufacturer": "act ii",
-        "class_id": 12,
-        "reason": "Popcorn Butter mapped to Snack Foods"
-    },
-    {
-        "keywords": [
-            "coconut",
-            "milk"
-        ],
-        "manufacturer": "a taste of thai",
-        "class_id": 11,
-        "reason": "Coconut Milk mapped to Milk"
-    },
-    {
-        "keywords": [
-            "iced",
-            "tea",
-            "mix"
-        ],
-        "manufacturer": "4c",
-        "class_id": 52,
-        "reason": "Iced Tea Mix mapped to Tea"
-    },
-    {
-        "keywords": [
-            "yogurt",
-            "strawberry",
-            "chewy",
-            "granola",
-            "bars"
-        ],
-        "manufacturer": "quaker",
-        "class_id": 64,
-        "reason": "Yogurt Strawberry Chewy Granola Bars mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "pasta",
-            "butter",
-            "and",
-            "garlic"
-        ],
-        "manufacturer": "pasta roni",
-        "class_id": 4,
-        "reason": "Pasta Butter And Garlic mapped to Boxed Meals"
-    },
-    {
-        "keywords": [
-            "oxy",
-            "blue"
-        ],
-        "manufacturer": "palmolive",
-        "class_id": 21,
-        "reason": "Oxy Blue mapped to Cleaners"
-    },
-    {
-        "keywords": [
-            "drink",
-            "mix",
-            "rich",
-            "chocolate"
-        ],
-        "manufacturer": "ovaltine",
-        "class_id": 51,
-        "reason": "Drink Mix Rich Chocolate mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "popcorn",
-            "garlic",
-            "butter",
-            "sea",
-            "salt"
-        ],
-        "manufacturer": "orville redenbachers",
-        "class_id": 12,
-        "reason": "Popcorn Garlic Butter & Sea Salt mapped to Snack Foods"
-    },
-    {
-        "keywords": [
-            "chicken",
-            "patties"
-        ],
-        "manufacturer": "on cor",
-        "class_id": 8,
-        "reason": "Chicken Patties mapped to Frozen Meat"
-    },
-    {
-        "keywords": [
-            "carnation",
-            "reduced",
-            "fat"
-        ],
-        "manufacturer": "nestle",
-        "class_id": 11,
-        "reason": "Carnation Reduced Fat mapped to Milk"
-    },
-    {
-        "keywords": [
-            "hot",
-            "cocoa",
-            "mix",
-            "mini",
-            "marshmallow"
-        ],
-        "manufacturer": "nestle",
-        "class_id": 51,
-        "reason": "Hot Cocoa Mix Mini Marshmallow mapped to Hot Beverages"
-    },
-    {
-        "keywords": [
-            "salt",
-            "fine"
-        ],
-        "manufacturer": "morton",
-        "class_id": 92,
-        "reason": "Salt Fine mapped to Salt"
-    },
-    {
-        "keywords": [
-            "fruit",
-            "drink",
-            "peach"
-        ],
-        "manufacturer": "minute maid",
-        "class_id": 30,
-        "reason": "Fruit Drink Peach mapped to Juice"
-    },
-    {
-        "keywords": [
-            "vanilla,",
-            "butter",
-            "nut",
-            "exctract"
-        ],
-        "manufacturer": "mccormick",
-        "class_id": 48,
-        "reason": "Vanilla, Butter & Nut Exctract mapped to Flavoring"
-    },
-    {
-        "keywords": [
-            "bread",
-            "cinnamon",
-            "raisin",
-            "swirl"
-        ],
-        "manufacturer": "martins",
-        "class_id": 27,
-        "reason": "Bread Cinnamon Raisin Swirl mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "rice",
-            "jasmine"
-        ],
-        "manufacturer": "mahatma",
-        "class_id": 57,
-        "reason": "Rice Jasmine mapped to Rice"
-    },
-    {
-        "keywords": [
-            "rice",
-            "white"
-        ],
-        "manufacturer": "mahatma",
-        "class_id": 57,
-        "reason": "Rice White mapped to Rice"
-    },
-    {
-        "keywords": [
-            "spray",
-            "drops",
-            "saline"
-        ],
-        "manufacturer": "little noses",
-        "class_id": 73,
-        "reason": "Spray & Drops Saline is a nasal spray"
-    },
-    {
-        "keywords": [
-            "bars",
-            "marshmallow",
-            "treat"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Bars Marshmallow Treat mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "bars",
-            "nutty"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Bars Nutty mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "brownies",
-            "cosmic"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Brownies Cosmic mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "brownies",
-            "fudge"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Brownies Fudge mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "buns",
-            "honey"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Buns Honey mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "cloud",
-            "cakes"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Cake Cloud Cakes mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "swiss",
-            "rolls"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Cake Swiss Rolls mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "zebra",
-            "cakes"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Cake Zebra Cakes mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cupcakes",
-            "chocolate"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Cupcakes Chocolate mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "pie",
-            "marshmallow",
-            "chocolate"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Pie Marshmallow Chocolate mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "spin",
-            "wheels",
-            "pecan"
-        ],
-        "manufacturer": "little debbie",
-        "class_id": 45,
-        "reason": "Spin Wheels Pecan mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "tea",
-            "honey",
-            "lemon"
-        ],
-        "manufacturer": "lipton",
-        "class_id": 52,
-        "reason": "Tea & Honey Lemon mapped to Tea"
-    },
-    {
-        "keywords": [
-            "lean",
-            "cusine",
-            "frozen"
-        ],
-        "manufacturer": "lean cusine",
-        "class_id": 4,
-        "reason": "Lean Cusine Frozen mapped to Frozen Entrees"
-    },
-    {
-        "keywords": [
-            "garlic",
-            "bread",
-            "classic"
-        ],
-        "manufacturer": "kroger",
-        "class_id": 26,
-        "reason": "Garlic Bread Classic mapped to Baked Goods"
-    },
-    {
-        "keywords": [
-            "bread",
-            "sticks",
-            "garlic"
-        ],
-        "manufacturer": "kroger",
-        "class_id": 26,
-        "reason": "Bread Sticks Garlic mapped to Baked Goods"
-    },
-    {
-        "keywords": [
-            "bread",
-            "sticks",
-            "mozzarella"
-        ],
-        "manufacturer": "kroger",
-        "class_id": 26,
-        "reason": "Bread Sticks Mozzarella mapped to Baked Goods"
-    },
-    {
-        "keywords": [
-            "american",
-            "singles",
-            "2%",
-            "milk"
-        ],
-        "manufacturer": "kraft",
-        "class_id": 11,
-        "reason": "American Singles 2% Milk mapped to Cheese"
-    },
-    {
-        "keywords": [
-            "cool",
-            "whip",
-            "regular"
-        ],
-        "manufacturer": "kraft",
-        "class_id": 11,
-        "reason": "Cool Whip Regular mapped to Dairy"
-    },
-    {
-        "keywords": [
-            "bursts",
-            "cherry"
-        ],
-        "manufacturer": "kool aid",
-        "class_id": 30,
-        "reason": "Bursts Cherry mapped to Juice"
-    },
-    {
-        "keywords": [
-            "jammers",
-            "cherry"
-        ],
-        "manufacturer": "kool aid",
-        "class_id": 30,
-        "reason": "Jammers Cherry mapped to Juice"
-    },
-    {
-        "keywords": [
-            "breakfast",
-            "sandwiches"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 26,
-        "reason": "Breakfast Sandwiches mapped to Frozen Breakfast"
-    },
-    {
-        "keywords": [
-            "french",
-            "toaster",
-            "sticks"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 26,
-        "reason": "French Toaster Sticks mapped to Frozen Breakfast"
-    },
-    {
-        "keywords": [
-            "granola",
-            "bar",
-            "chocolatey",
-            "crunch"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Granola Bar Chocolatey Crunch mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "fruit",
-            "yogurt",
-            "bar"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Fruit Yogurt Bar mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "toffee",
-            "crunch",
-            "bar"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Toffee Crunch Bar mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "snack",
-            "bites",
-            "dreamy",
-            "coconut"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Snack Bites Dreamy Coconut mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "snack",
-            "bites",
-            "caramel",
-            "pretzel"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Snack Bites Caramel Pretzel mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "snack",
-            "bar",
-            "protein",
-            "greek",
-            "yogurt"
-        ],
-        "manufacturer": "kelloggs",
-        "class_id": 64,
-        "reason": "Snack Bar Protein Greek Yogurt mapped to Granola Bars"
-    },
-    {
-        "keywords": [
-            "nectar",
-            "guava"
-        ],
-        "manufacturer": "jumex",
-        "class_id": 30,
-        "reason": "Nectar Guava mapped to Juice"
-    },
-    {
-        "keywords": [
-            "baby",
-            "powder"
-        ],
-        "manufacturer": "johnsons",
-        "class_id": 79,
-        "reason": "Baby Powder mapped to Shampoo"
-    },
-    {
-        "keywords": [
-            "baby",
-            "shampoo"
-        ],
-        "manufacturer": "johnsons",
-        "class_id": 79,
-        "reason": "Baby Shampoo mapped to Shampoo"
-    },
-    {
-        "keywords": [
-            "mix",
-            "baking"
-        ],
-        "manufacturer": "jiffy",
-        "class_id": 86,
-        "reason": "Mix Baking mapped to Baking Mixes"
-    },
-    {
-        "keywords": [
-            "mix",
-            "pizza",
-            "crust"
-        ],
-        "manufacturer": "jiffy",
-        "class_id": 86,
-        "reason": "Mix Pizza Crust mapped to Baking Mixes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "ho",
-            "hos"
-        ],
-        "manufacturer": "hostess",
-        "class_id": 45,
-        "reason": "Cake Ho Hos mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "twinkies"
-        ],
-        "manufacturer": "hostess",
-        "class_id": 45,
-        "reason": "Cake Twinkies mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cupcakes",
-            "chocolate"
-        ],
-        "manufacturer": "hostess",
-        "class_id": 45,
-        "reason": "Cupcakes Chocolate mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "sour",
-            "cream",
-            "dip",
-            "bacon",
-            "ranch"
-        ],
-        "manufacturer": "heluva good",
-        "class_id": 11,
-        "reason": "Sour Cream Dip Bacon Ranch mapped to Dips"
-    },
-    {
-        "keywords": [
-            "punch",
-            "mixed",
-            "berry"
-        ],
-        "manufacturer": "hawaiian punch",
-        "class_id": 30,
-        "reason": "Punch Mixed Berry mapped to Juice"
-    },
-    {
-        "keywords": [
-            "punch",
-            "orange",
-            "citrus"
-        ],
-        "manufacturer": "hawaiian punch",
-        "class_id": 30,
-        "reason": "Punch Orange Citrus mapped to Juice"
-    },
-    {
-        "keywords": [
-            "coconut",
-            "milk",
-            "original"
-        ],
-        "manufacturer": "goya",
-        "class_id": 11,
-        "reason": "Coconut Milk Original mapped to Milk"
-    },
-    {
-        "keywords": [
-            "sports",
-            "drink"
-        ],
-        "manufacturer": "gatorade",
-        "class_id": 52,
-        "reason": "Sports Drink mapped to Sports Drinks"
-    },
-    {
-        "keywords": [
-            "bread",
-            "flax"
-        ],
-        "manufacturer": "food for life",
-        "class_id": 27,
-        "reason": "Bread Flax mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "bread",
-            "sesame",
-            "sprouted",
-            "grain"
-        ],
-        "manufacturer": "food for life",
-        "class_id": 27,
-        "reason": "Bread Sesame Sprouted Grain mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "bread",
-            "whole",
-            "grain"
-        ],
-        "manufacturer": "food for life",
-        "class_id": 27,
-        "reason": "Bread Whole Grain mapped to Sliced Bread"
-    },
-    {
-        "keywords": [
-            "buns",
-            "cinnamon",
-            "swirl"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Buns Cinnamon Swirl mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "buns",
-            "super",
-            "cinnamons"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Buns Super Cinnamons mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "french",
-            "crumb"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake French Crumb mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "cheese",
-            "breakfast",
-            "buns"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Cheese Breakfast Buns mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "jumbo",
-            "glazed",
-            "honey",
-            "bun"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Jumbo Glazed Honey Bun mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "lemon",
-            "crunch"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Lemon Crunch mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "lemon",
-            "loaf"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Lemon Loaf mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "louisiana",
-            "crunch"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Louisiana Crunch mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "pound",
-            "cake"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Pound Cake mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "wrapped",
-            "crumb",
-            "mini"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Wrapped Crumb Mini mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "cake",
-            "wrapped",
-            "pound",
-            "cake",
-            "mini"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Cake Wrapped Pound Cake Mini mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "danish",
-            "cheese",
-            "twist"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Danish Cheese Twist mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "danish",
-            "cherry",
-            "cheese"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Danish Cherry Cheese mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "danish",
-            "raspberry"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Danish Raspberry mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "danish",
-            "twist",
-            "raspberry"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Danish Twist Raspberry mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "puffs",
-            "apple"
-        ],
-        "manufacturer": "entenmanns",
-        "class_id": 45,
-        "reason": "Puffs Apple mapped to Snack Cakes"
-    },
-    {
-        "keywords": [
-            "hearty",
-            "meals",
-            "beef",
-            "stew"
-        ],
-        "manufacturer": "dinty moore",
-        "class_id": 4,
-        "reason": "Hearty Meals Beef Stew mapped to Canned Meals"
-    },
-    {
-        "keywords": [
-            "fruit",
-            "burst",
-            "squeezers"
-        ],
-        "manufacturer": "del monte",
-        "class_id": 82,
-        "reason": "Fruit Burst Squeezers mapped to Canned Fruit"
-    },
-    {
-        "keywords": [
-            "3d",
-            "white",
-            "arctic",
-            "fresh"
-        ],
-        "manufacturer": "crest",
-        "class_id": 39,
-        "reason": "Toothpaste mapped to parent category"
-    },
-    {
-        "keywords": [
-            "superv",
-            "apple"
-        ],
-        "manufacturer": "capri sun",
-        "class_id": 30,
-        "reason": "SuperV Apple mapped to Juice"
-    },
-    {
-        "keywords": [
-            "chicken",
-            "noodle",
-            "low",
-            "sodium"
-        ],
-        "manufacturer": "campbells",
-        "class_id": 3,
-        "reason": "Chicken Noodle Low Sodium mapped to Soups"
-    },
-    {
-        "keywords": [
-            "cola",
-            "regular"
-        ],
-        "manufacturer": "big k",
-        "class_id": 52,
-        "reason": "Cola Regular mapped to Soft Drinks"
-    },
-    {
-        "keywords": [
-            "stuffed",
-            "broccoli",
-            "cheese"
-        ],
-        "manufacturer": "barber",
-        "class_id": 4,
-        "reason": "Stuffed Broccoli & Cheese mapped to Frozen Entrees"
-    },
-    {
-        "keywords": [
-            "sausage",
-            "maple",
-            "links"
-        ],
-        "manufacturer": "banquet",
-        "class_id": 8,
-        "reason": "Sausage Maple Links mapped to Frozen Meat"
-    },
-    {
-        "keywords": [
-            "sausage",
-            "original",
-            "links"
-        ],
-        "manufacturer": "banquet",
-        "class_id": 8,
-        "reason": "Sausage Original Links mapped to Frozen Meat"
-    },
-    {
-        "keywords": [
-            "sausage",
-            "turkey"
-        ],
-        "manufacturer": "banquet",
-        "class_id": 8,
-        "reason": "Sausage Turkey mapped to Frozen Meat"
-    },
-    {
-        "keywords": [
-            "laundry",
-            "detergent"
-        ],
-        "manufacturer": "all laundry",
-        "class_id": 21,
-        "reason": "Laundry Detergent mapped to Cleaners"
-    },
-        {
-          "keywords": ["english", "muffins", "original"],
-          "manufacturer": "schmidt old tyme",
-          "class_id": 25,
-          "reason": "English Muffins mapped to Bagels/Muffins"
-        },
-        {
-          "keywords": ["stone", "wheat", "thins", "original"],
-          "manufacturer": "red oval farms",
-          "class_id": 82,
-          "reason": "Wheat Thins mapped to Crackers"
-        },
-        {
-          "keywords": ["muffins", "banana", "nut"],
-          "manufacturer": "little debbie",
-          "class_id": 26,
-          "reason": "Banana Nut Muffins mapped to Muffins"
-        },
-        {
-          "keywords": ["muffins", "blueberry"],
-          "manufacturer": "little debbie",
-          "class_id": 26,
-          "reason": "Blueberry Muffins mapped to Muffins"
-        },
-        {
-          "keywords": ["eggs", "large"],
-          "manufacturer": "kroger",
-          "class_id": 62,
-          "reason": "Eggs mapped to Dairy/Eggs category"
-        },
-        {
-          "keywords": ["muffin", "mix", "blueberry"],
-          "manufacturer": "jiffy",
-          "class_id": 26,
-          "reason": "Blueberry Muffin Mix mapped to Muffins"
-        },
-        {
-          "keywords": ["muffin", "mix", "corn"],
-          "manufacturer": "jiffy",
-          "class_id": 26,
-          "reason": "Corn Muffin Mix mapped to Muffins"
-        },
-        {
-          "keywords": ["muffin", "mix", "raspberry"],
-          "manufacturer": "jiffy",
-          "class_id": 26,
-          "reason": "Raspberry Muffin Mix mapped to Muffins"
-        },
-        {
-          "keywords": ["muffin", "mix", "vegetarian", "corn"],
-          "manufacturer": "jiffy",
-          "class_id": 26,
-          "reason": "Vegetarian Corn Muffin Mix mapped to Muffins"
-        },
-        {
-          "keywords": ["muffins", "chocolate", "chip", "mini"],
-          "manufacturer": "entenmanns",
-          "class_id": 26,
-          "reason": "Chocolate Chip Mini Muffins mapped to Muffins"
-        },
-        {
-          "keywords": ["laundry", "detergent", "ultra", "free", "clear"],
-          "manufacturer": "all",
-          "class_id": 21,
-          "reason": "All Laundry Detergent mapped to Cleaners"
-        },
-        {
-          "keywords": ["jewish", "pumpernickel", "dark", "pump"],
-          "manufacturer": "pepperidge farm",
-          "class_id": 27,
-          "reason": "Jewish Pumpernickel Bread mapped to Sliced Bread"
-        },
-        {
-          "keywords": ["texas", "toast", "5", "cheese"],
-          "manufacturer": "pepperidge farm",
-          "class_id": 27,
-          "reason": "Texas Toast Cheese Bread mapped to Sliced Bread"
-        },
-        {
-          "keywords": ["texas", "toast", "garlic"],
-          "manufacturer": "pepperidge farm",
-          "class_id": 27,
-          "reason": "Texas Toast Garlic Bread mapped to Sliced Bread"
-        }
-      
-]
+      "reason": "Bread product mapped to Sliced Bread",
+      "meta_code": 111
+    },
+    {
+      "keywords": [
+        "mix",
+        "stuffing",
+        "pork"
+      ],
+      "manufacturer": "stove top",
+      "class_id": 16,
+      "reason": "Stuffing Mix Pork mapped to Deli Salads (best match)",
+      "meta_code": 112
+    },
+    {
+      "keywords": [
+        "thin",
+        "sandwich",
+        "steaks",
+        "sliced"
+      ],
+      "manufacturer": "steakumm",
+      "class_id": 8,
+      "reason": "Sandwich Steaks Thin Sliced mapped to Deli Meats",
+      "meta_code": 113
+    },
+    {
+      "keywords": [
+        "tuna",
+        "chunk",
+        "pouch",
+        "water",
+        "light"
+      ],
+      "manufacturer": "starkist",
+      "class_id": 93,
+      "reason": "Chunk Light Tuna Water (pouch) mapped to Canned Tuna",
+      "meta_code": 114
+    },
+    {
+      "keywords": [
+        "hot",
+        "cocoa",
+        "mix",
+        "double",
+        "chocolate",
+        "premium"
+      ],
+      "manufacturer": "starbucks",
+      "class_id": 51,
+      "reason": "Hot Cocoa Mix Premium Double Chocolate mapped to Hot Beverages",
+      "meta_code": 115
+    },
+    {
+      "keywords": [
+        "hot",
+        "cocoa",
+        "salted",
+        "mix",
+        "caramel"
+      ],
+      "manufacturer": "starbucks",
+      "class_id": 51,
+      "reason": "Hot Cocoa Mix Salted Caramel mapped to Hot Beverages",
+      "meta_code": 116
+    },
+    {
+      "keywords": [
+        "hot",
+        "cocoa",
+        "brulee",
+        "mix",
+        "vanilla"
+      ],
+      "manufacturer": "starbucks",
+      "class_id": 51,
+      "reason": "Hot Cocoa Mix Vanilla Brulee mapped to Hot Beverages",
+      "meta_code": 117
+    },
+    {
+      "keywords": [
+        "balsamic",
+        "vinegar"
+      ],
+      "manufacturer": "star",
+      "class_id": 48,
+      "reason": "Vinegar Balsamic mapped to Sauces",
+      "meta_code": 118
+    },
+    {
+      "keywords": [
+        "sparkling",
+        "berry",
+        "spring",
+        "water",
+        "pomegranate"
+      ],
+      "manufacturer": "sparkling ice",
+      "class_id": 52,
+      "reason": "Sparkling Spring Water Pomegranate Berry mapped to Flavored Drinks",
+      "meta_code": 119
+    },
+    {
+      "keywords": [
+        "milk",
+        "vanilla",
+        "soy"
+      ],
+      "manufacturer": "soy dream",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 120
+    },
+    {
+      "keywords": [
+        "original",
+        "lotion",
+        "baby"
+      ],
+      "manufacturer": "soft & precious",
+      "class_id": 39,
+      "reason": "Personal Care products mapped to Personal Hygiene",
+      "meta_code": 121
+    },
+    {
+      "keywords": [
+        "hair",
+        "creme",
+        "moist"
+      ],
+      "manufacturer": "soft & precious",
+      "class_id": 39,
+      "reason": "Personal Care products mapped to Personal Hygiene",
+      "meta_code": 122
+    },
+    {
+      "keywords": [
+        "hair",
+        "moisturizer",
+        "detangling"
+      ],
+      "manufacturer": "soft & precious",
+      "class_id": 39,
+      "reason": "Personal Care products mapped to Personal Hygiene",
+      "meta_code": 123
+    },
+    {
+      "keywords": [
+        "tortilla",
+        "original",
+        "chips"
+      ],
+      "manufacturer": "snyders of hanover",
+      "class_id": 12,
+      "reason": "Tortilla Chips Original mapped to Snack Foods",
+      "meta_code": 124
+    },
+    {
+      "keywords": [
+        "singles",
+        "green",
+        "diet",
+        "go",
+        "to",
+        "tea"
+      ],
+      "manufacturer": "snapple",
+      "class_id": 51,
+      "reason": "Diet Green Tea mapped to Tea ",
+      "meta_code": 125
+    },
+    {
+      "keywords": [
+        "singles",
+        "diet",
+        "go",
+        "to",
+        "lemon"
+      ],
+      "manufacturer": "snapple",
+      "class_id": 51,
+      "reason": "Diet Lemon mapped to Tea ",
+      "meta_code": 126
+    },
+    {
+      "keywords": [
+        "jam",
+        "grape"
+      ],
+      "manufacturer": "smuckers",
+      "class_id": 32,
+      "reason": "Smuckers Grape Jam mapped to Jam",
+      "meta_code": 127
+    },
+    {
+      "keywords": [
+        "jam",
+        "strawberry"
+      ],
+      "manufacturer": "smuckers",
+      "class_id": 32,
+      "reason": "Smuckers Strawberry Jam mapped to Jam",
+      "meta_code": 128
+    },
+    {
+      "keywords": [
+        "grape",
+        "jelly"
+      ],
+      "manufacturer": "smuckers",
+      "class_id": 31,
+      "reason": "Smuckers Grape Jelly mapped to Jelly",
+      "meta_code": 129
+    },
+    {
+      "keywords": [
+        "jelly",
+        "grape",
+        "squeeze"
+      ],
+      "manufacturer": "smuckers",
+      "class_id": 31,
+      "reason": "Smuckers Grape Jelly mapped to Jelly",
+      "meta_code": 129
+    },
+    {
+      "keywords": [
+        "milk",
+        "original",
+        "almond"
+      ],
+      "manufacturer": "silk",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 130
+    },
+    {
+      "keywords": [
+        "soymilk",
+        "chocolate",
+        "light"
+      ],
+      "manufacturer": "silk",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 131
+    },
+    {
+      "keywords": [
+        "5in1",
+        "bleach",
+        "purpose",
+        "all",
+        "cleaner"
+      ],
+      "manufacturer": "scrubbing bubbles",
+      "class_id": 21,
+      "reason": "All Purpose Cleaner Bleach mapped to Cleaners",
+      "meta_code": 132
+    },
+    {
+      "keywords": [
+        "refill",
+        "shower",
+        "liquid",
+        "cleaner",
+        "automatic"
+      ],
+      "manufacturer": "scrubbing bubbles",
+      "class_id": 21,
+      "reason": "Shower Cleaner mapped to Cleaners",
+      "meta_code": 133
+    },
+    {
+      "keywords": [
+        "sponges",
+        "blue"
+      ],
+      "manufacturer": "scotch-brite",
+      "class_id": 42,
+      "reason": "Sponges Blue mapped to Kitchen Products",
+      "meta_code": 134
+    },
+    {
+      "keywords": [
+        "muffins",
+        "original",
+        "english"
+      ],
+      "manufacturer": "schmidt old tyme",
+      "class_id": 25,
+      "reason": "English Muffins mapped to Bagels/Muffins",
+      "meta_code": 135
+    },
+    {
+      "keywords": [
+        "amazin",
+        "raisin",
+        "bread"
+      ],
+      "manufacturer": "schmidt",
+      "class_id": 27,
+      "reason": "Bread Amazin Raisin mapped to Sliced Bread",
+      "meta_code": 136
+    },
+    {
+      "keywords": [
+        "medium",
+        "tastings",
+        "asiago"
+      ],
+      "manufacturer": "sargento",
+      "class_id": 11,
+      "reason": "Tastings Medium Asiago mapped to Cheese",
+      "meta_code": 137
+    },
+    {
+      "keywords": [
+        "tastings",
+        "parmentino"
+      ],
+      "manufacturer": "sargento",
+      "class_id": 11,
+      "reason": "Tastings Parmentino mapped to Cheese",
+      "meta_code": 138
+    },
+    {
+      "keywords": [
+        "cheeseburgers",
+        "angus",
+        "flatbread"
+      ],
+      "manufacturer": "sandwich bros",
+      "class_id": 10,
+      "reason": "Flatbread frozen items mapped to Frozen Entrees",
+      "meta_code": 139
+    },
+    {
+      "keywords": [
+        "melts",
+        "chicken",
+        "flatbread"
+      ],
+      "manufacturer": "sandwich bros",
+      "class_id": 10,
+      "reason": "Flatbread frozen items mapped to Frozen Entrees",
+      "meta_code": 140
+    },
+    {
+      "keywords": [
+        "raisin",
+        "bread"
+      ],
+      "manufacturer": "safeway",
+      "class_id": 27,
+      "reason": "Bread Raisin mapped to Sliced Bread",
+      "meta_code": 141
+    },
+    {
+      "keywords": [
+        "texas",
+        "bread",
+        "toast"
+      ],
+      "manufacturer": "safeway",
+      "class_id": 27,
+      "reason": "Bread Texas Toast mapped to Sliced Bread",
+      "meta_code": 142
+    },
+    {
+      "keywords": [
+        "sugar",
+        "white"
+      ],
+      "manufacturer": "rowan",
+      "class_id": 50,
+      "reason": "Sugar White mapped to Sugar",
+      "meta_code": 143
+    },
+    {
+      "keywords": [
+        "pretzels",
+        "rods",
+        "honey",
+        "wheat"
+      ],
+      "manufacturer": "rolled gold",
+      "class_id": 82,
+      "reason": "Pretzels Honey Wheat Rods mapped to Snack Foods",
+      "meta_code": 172
+    },
+    {
+      "keywords": [
+        "peanut",
+        "cups",
+        "butter",
+        "size",
+        "king"
+      ],
+      "manufacturer": "reeses",
+      "class_id": 36,
+      "reason": "Peanut Butter Cups mapped to Chocolate Candy",
+      "meta_code": 145
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "wing",
+        "counter",
+        "red"
+      ],
+      "manufacturer": "red wing",
+      "class_id": 21,
+      "reason": "Counter Cleaner mapped to Cleaners",
+      "meta_code": 146
+    },
+    {
+      "keywords": [
+        "wing",
+        "cleaner",
+        "glass",
+        "red"
+      ],
+      "manufacturer": "red wing",
+      "class_id": 21,
+      "reason": "Glass Cleaner mapped to Cleaners",
+      "meta_code": 147
+    },
+    {
+      "keywords": [
+        "toilet",
+        "bowl",
+        "wing",
+        "red",
+        "cleaner"
+      ],
+      "manufacturer": "red wing",
+      "class_id": 21,
+      "reason": "Toilet Bowl Cleaner mapped to Cleaners",
+      "meta_code": 148
+    },
+    {
+      "keywords": [
+        "stone",
+        "original",
+        "thins",
+        "wheat"
+      ],
+      "manufacturer": "red oval farms",
+      "class_id": 82,
+      "reason": "Wheat Thins mapped to Crackers",
+      "meta_code": 149
+    },
+    {
+      "keywords": [
+        "sausage",
+        "pork"
+      ],
+      "manufacturer": "purnell",
+      "class_id": 8,
+      "reason": "Sausage Pork mapped to Deli Meats",
+      "meta_code": 153
+    },
+    {
+      "keywords": [
+        "lettuce",
+        "head"
+      ],
+      "manufacturer": "produce",
+      "class_id": 13,
+      "reason": "Lettuce Head mapped to Fresh Vegetables",
+      "meta_code": 154
+    },
+    {
+      "keywords": [
+        "vegetables",
+        "greens",
+        "turnip"
+      ],
+      "manufacturer": "produce",
+      "class_id": 13,
+      "reason": "Turnip Greens Vegetables mapped to Fresh Vegetables",
+      "meta_code": 155
+    },
+    {
+      "keywords": [
+        "buttermilk",
+        "biscuits",
+        "grands"
+      ],
+      "manufacturer": "pillsbury",
+      "class_id": 26,
+      "reason": "Biscuits Buttermilk mapped to Biscuits",
+      "meta_code": 156
+    },
+    {
+      "keywords": [
+        "buttermilk",
+        "grands",
+        "layers",
+        "biscuits",
+        "flaky"
+      ],
+      "manufacturer": "pillsbury",
+      "class_id": 26,
+      "reason": "Biscuits Buttermilk mapped to Biscuits",
+      "meta_code": 156
+    },
+    {
+      "keywords": [
+        "buttermilk",
+        "grands",
+        "biscuits",
+        "southern",
+        "homestyle"
+      ],
+      "manufacturer": "pillsbury",
+      "class_id": 26,
+      "reason": "Biscuits Buttermilk mapped to Biscuits",
+      "meta_code": 156
+    },
+    {
+      "keywords": [
+        "buttermilk",
+        "grands",
+        "biscuits",
+        "southern",
+        "homestyle"
+      ],
+      "manufacturer": "pillsbury",
+      "class_id": 26,
+      "reason": "Biscuits Buttermilk mapped to Biscuits",
+      "meta_code": 156
+    },
+    {
+      "keywords": [
+        "buttermilk",
+        "grands",
+        "layers",
+        "biscuits",
+        "flaky",
+        "junior"
+      ],
+      "manufacturer": "pillsbury",
+      "class_id": 26,
+      "reason": "Biscuits Buttermilk mapped to Biscuits",
+      "meta_code": 156
+    },
+    {
+      "keywords": [
+        "pure",
+        "beef",
+        "hamburgers"
+      ],
+      "manufacturer": "philly gourmet",
+      "class_id": 8,
+      "reason": "Hamburgers Pure Beef mapped to Deli Meats",
+      "meta_code": 157
+    },
+    {
+      "keywords": [
+        "pure",
+        "beef",
+        "hamburgers"
+      ],
+      "manufacturer": "philly gourmet",
+      "class_id": 8,
+      "reason": "Hamburgers Pure Beef mapped to Deli Meats",
+      "meta_code": 157
+    },
+    {
+      "keywords": [
+        "milk",
+        "evaporated",
+        "original"
+      ],
+      "manufacturer": "pet",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 158
+    },
+    {
+      "keywords": [
+        "pump",
+        "jewish",
+        "dark",
+        "pumpernickel"
+      ],
+      "manufacturer": "pepperidge farm",
+      "class_id": 27,
+      "reason": "Jewish Pumpernickel Bread mapped to Sliced Bread",
+      "meta_code": 159
+    },
+    {
+    "keywords": [
+      "bread",
+      "corn",
+      "stuffing"
+    ],
+    "manufacturer": "pepperidge farm",
+    "class_id": 4,
+    "reason": "Stuffing Corn Bread mapped to Baking Mixes / Dry Goods",
+    "meta_code": 160
+  },
+    {
+      "keywords": [
+        "5",
+        "texas",
+        "cheese",
+        "toast"
+      ],
+      "manufacturer": "pepperidge farm",
+      "class_id": 27,
+      "reason": "Texas Toast Cheese Bread mapped to Sliced Bread",
+      "meta_code": 161
+    },
+    {
+      "keywords": [
+        "texas",
+        "garlic",
+        "toast"
+      ],
+      "manufacturer": "pepperidge farm",
+      "class_id": 27,
+      "reason": "Texas Toast Garlic Bread mapped to Sliced Bread",
+      "meta_code": 162
+    },
+    {
+      "keywords": [
+        "beef",
+        "dog",
+        "chopped",
+        "food"
+      ],
+      "manufacturer": "pedigree",
+      "class_id": 214,
+      "reason": "Dog Food mapped to Pet Supplies ",
+      "meta_code": 163
+    },
+    {
+      "keywords": [
+        "congestion",
+        "cherry",
+        "cough"
+      ],
+      "manufacturer": "pediacare",
+      "class_id": 70,
+      "reason": "Cough & Congestion Cherry mapped to Medicines ",
+      "meta_code": 164
+    },
+    {
+      "keywords": [
+        "and",
+        "butter",
+        "pasta",
+        "garlic"
+      ],
+      "manufacturer": "pasta roni",
+      "class_id": 5,
+      "reason": "Pasta Butter And Garlic mapped to Boxed Meals",
+      "meta_code": 225
+    },
+    {
+      "keywords": [
+        "hot",
+        "style",
+        "cocoa",
+        "mix",
+        "dutch"
+      ],
+      "manufacturer": "pantry essentials",
+      "class_id": 51,
+      "reason": "Hot Cocoa Mix mapped to Hot Beverages",
+      "meta_code": 166
+    },
+    {
+      "keywords": [
+        "oxy",
+        "blue"
+      ],
+      "manufacturer": "palmolive",
+      "class_id": 21,
+      "reason": "Oxy Blue mapped to Cleaners",
+      "meta_code": 167
+    },
+    {
+      "keywords": [
+        "clean",
+        "detergent",
+        "oxi",
+        "laundry"
+      ],
+      "manufacturer": "oxi clean",
+      "class_id": 21,
+      "reason": "Laundry Detergent mapped to Cleaners",
+      "meta_code": 168
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "mix",
+        "malt",
+        "drink"
+      ],
+      "manufacturer": "ovaltine",
+      "class_id": 51,
+      "reason": "Drink Mix Chocolate Malt mapped to Hot Beverages",
+      "meta_code": 169
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "mix",
+        "malt",
+        "drink"
+      ],
+      "manufacturer": "ovaltine",
+      "class_id": 51,
+      "reason": "Drink Mix Chocolate Malt mapped to Hot Beverages",
+      "meta_code": 169
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "rich",
+        "mix",
+        "drink"
+      ],
+      "manufacturer": "ovaltine",
+      "class_id": 51,
+      "reason": "Drink Mix Rich Chocolate mapped to Hot Beverages",
+      "meta_code": 170
+    },
+    {
+      "keywords": [
+        "dogs",
+        "hot",
+        "regular"
+      ],
+      "manufacturer": "oscar mayer",
+      "class_id": 81,
+      "reason": "Hot Dogs mapped to Hot Dogs",
+      "meta_code": 171
+    },
+    {
+      "keywords": [
+        "dogs",
+        "hot",
+        "smoked",
+        "turkey"
+      ],
+      "manufacturer": "oscar mayer",
+      "class_id": 81,
+      "reason": "Hot Dogs mapped to Hot Dogs",
+      "meta_code": 171
+    },
+    {
+      "keywords": [
+        "butter",
+        "microwave",
+        "popcorn"
+      ],
+      "manufacturer": "orville redenbachers",
+      "class_id": 12,
+      "reason": "Microwave Popcorn Butter mapped to Snack Foods",
+      "meta_code": 172
+    },
+    {
+      "keywords": [
+        "butter",
+        "garlic",
+        "salt",
+        "popcorn",
+        "sea"
+      ],
+      "manufacturer": "orville redenbachers",
+      "class_id": 12,
+      "reason": "Popcorn Garlic Butter & Sea Salt mapped to Snack Foods",
+      "meta_code": 173
+    },
+    {
+      "keywords": [
+        "french",
+        "shoestring",
+        "fries"
+      ],
+      "manufacturer": "ore ida",
+      "class_id": 63,
+      "reason": "French Fries mapped to Frozen Potatoes",
+      "meta_code": 174
+    },
+    {
+      "keywords": [
+        "meatballs",
+        "beef",
+        "angus"
+      ],
+      "manufacturer": "open nature",
+      "class_id": 8,
+      "reason": "Meatballs Angus Beef mapped to Deli Meats",
+      "meta_code": 175
+    },
+    {
+      "keywords": [
+        "chicken",
+        "patties"
+      ],
+      "manufacturer": "on cor",
+      "class_id": 8,
+      "reason": "Chicken Patties mapped to Frozen Meat",
+      "meta_code": 176
+    },
+    {
+      "keywords": [
+        "seasoning",
+        "taco",
+        "original"
+      ],
+      "manufacturer": "old el paso",
+      "class_id": 4,
+      "reason": "Taco Seasoning Original mapped to Spices/Seasoning",
+      "meta_code": 177
+    },
+    {
+      "keywords": [
+        "craisins",
+        "original"
+      ],
+      "manufacturer": "ocean spray",
+      "class_id": 82,
+      "reason": "Craisins Original mapped to Dried Fruit",
+      "meta_code": 178
+    },
+    {
+      "keywords": [
+        "spread",
+        "hazelnut"
+      ],
+      "manufacturer": "nutella",
+      "class_id": 48,
+      "reason": "Spread Hazelnut mapped to Spread",
+      "meta_code": 179
+    },
+    {
+      "keywords": [
+        "reduced",
+        "fat",
+        "carnation"
+      ],
+      "manufacturer": "nestle",
+      "class_id": 11,
+      "reason": "Carnation Reduced Fat mapped to Milk",
+      "meta_code": 180
+    },
+    {
+      "keywords": [
+        "milk",
+        "hot",
+        "cocoa",
+        "mix",
+        "chocolate"
+      ],
+      "manufacturer": "nestle",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 181
+    },
+    {
+      "keywords": [
+        "hot",
+        "mini",
+        "marshmallow",
+        "cocoa",
+        "mix"
+      ],
+      "manufacturer": "nestle",
+      "class_id": 51,
+      "reason": "Hot Cocoa Mix Mini Marshmallow mapped to Hot Beverages",
+      "meta_code": 182
+    },
+    {
+      "keywords": [
+        "milk",
+        "banana",
+        "strawberry"
+      ],
+      "manufacturer": "nestle",
+      "class_id": 52,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 185
+    },
+    {
+      "keywords": [
+        "tea",
+        "instant"
+      ],
+      "manufacturer": "nestea",
+      "class_id": 52,
+      "reason": "Tea Instant mapped to Tea",
+      "meta_code": 184
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "mix",
+        "drink"
+      ],
+      "manufacturer": "nesquik",
+      "class_id": 52,
+      "reason": "Drink Mix Chocolate mapped to Flavored Drinks",
+      "meta_code": 185
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "mix",
+        "drink"
+      ],
+      "manufacturer": "nesquik",
+      "class_id": 52,
+      "reason": "Drink Mix Chocolate mapped to Flavored Drinks",
+      "meta_code": 185
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "mix",
+        "drink"
+      ],
+      "manufacturer": "nesquik",
+      "class_id": 52,
+      "reason": "Drink Mix Chocolate mapped to Flavored Drinks",
+      "meta_code": 185
+    },
+    {
+      "keywords": [
+        "raisin",
+        "swirl",
+        "cinnamon",
+        "bread"
+      ],
+      "manufacturer": "natures own",
+      "class_id": 27,
+      "reason": "Bread Cinnamon Raisin Swirl mapped to Sliced Bread",
+      "meta_code": 186
+    },
+    {
+      "keywords": [
+        "raisin",
+        "potato",
+        "cinnamon",
+        "swirl",
+        "bread"
+      ],
+      "manufacturer": "martins",
+      "class_id": 27,
+      "reason": "Bread Cinnamon Raisin Swirl mapped to Sliced Bread",
+      "meta_code": 186
+    },
+    {
+      "keywords": [
+        "applesauce",
+        "cinnamon"
+      ],
+      "manufacturer": "motts",
+      "class_id": 82,
+      "reason": "Applesauce Cinnamon mapped to Canned Fruit",
+      "meta_code": 187
+    },
+    {
+      "keywords": [
+        "kosher",
+        "salt"
+      ],
+      "manufacturer": "morton",
+      "class_id": 92,
+      "reason": "Salt Kosher mapped to Salt",
+      "meta_code": 188
+    },
+    {
+      "keywords": [
+        "coarse",
+        "sea",
+        "salt"
+      ],
+      "manufacturer": "morton",
+      "class_id": 92,
+      "reason": "Salt Coarse mapped to Salt",
+      "meta_code": 189
+    },
+    {
+      "keywords": [
+        "fine",
+        "sea",
+        "salt"
+      ],
+      "manufacturer": "morton",
+      "class_id": 92,
+      "reason": "Salt Fine mapped to Salt",
+      "meta_code": 190
+    },
+    {
+      "keywords": [
+        "fruit",
+        "punch",
+        "coolers"
+      ],
+      "manufacturer": "minute maid",
+      "class_id": 30,
+      "reason": "Coolers Fruit Punch mapped to Juice",
+      "meta_code": 191
+    },
+    {
+      "keywords": [
+        "peach",
+        "fruit",
+        "drink"
+      ],
+      "manufacturer": "minute maid",
+      "class_id": 30,
+      "reason": "Fruit Drink Peach mapped to Juice",
+      "meta_code": 192
+    },
+    {
+      "keywords": [
+        "butter",
+        "exctract",
+        "vanilla",
+        "nut"
+      ],
+      "manufacturer": "mccormick",
+      "class_id": 4,
+      "reason": "Vanilla, Butter & Nut Exctract mapped to Flavoring",
+      "meta_code": 193
+    },
+    {
+      "keywords": [
+        "rice",
+        "brown"
+      ],
+      "manufacturer": "mahatma",
+      "class_id": 57,
+      "reason": "Rice Brown mapped to Rice",
+      "meta_code": 194
+    },
+    {
+      "keywords": [
+        "rice",
+        "jasmine"
+      ],
+      "manufacturer": "mahatma",
+      "class_id": 57,
+      "reason": "Rice Jasmine mapped to Rice",
+      "meta_code": 195
+    },
+    {
+      "keywords": [
+        "rice",
+        "white"
+      ],
+      "manufacturer": "mahatma",
+      "class_id": 57,
+      "reason": "Rice White mapped to Rice",
+      "meta_code": 196
+    },
+    {
+      "keywords": [
+        "drops",
+        "gas",
+        "relief",
+        "berry",
+        "natural"
+      ],
+      "manufacturer": "little tummys",
+      "class_id": 70,
+      "reason": "Gas Relief Drops mapped to Medicines ",
+      "meta_code": 197
+    },
+    {
+      "keywords": [
+        "drops",
+        "spray",
+        "saline"
+      ],
+      "manufacturer": "little noses",
+      "class_id": 70,
+      "reason": "Spray & Drops Saline mapped to Medicines ",
+      "meta_code": 198
+    },
+    {
+      "keywords": [
+        "cosmic",
+        "brownies"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Brownies Cosmic mapped to Snack Cakes",
+      "meta_code": 201
+    },
+    {
+      "keywords": [
+        "fudge",
+        "brownies"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Brownies Fudge mapped to Snack Cakes",
+      "meta_code": 202
+    },
+    {
+      "keywords": [
+        "honey",
+        "buns"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Buns Honey mapped to Snack Cakes",
+      "meta_code": 203
+    },
+    {
+      "keywords": [
+        "cloud",
+        "cake",
+        "cakes"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Cake Cloud Cakes mapped to Snack Cakes",
+      "meta_code": 204
+    },
+    {
+      "keywords": [
+        "swiss",
+        "cake",
+        "rolls"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Cake Swiss Rolls mapped to Snack Cakes",
+      "meta_code": 205
+    },
+    {
+      "keywords": [
+        "zebra",
+        "cake",
+        "cakes"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Cake Zebra Cakes mapped to Snack Cakes",
+      "meta_code": 206
+    },
+    {
+      "keywords": [
+        "cookies",
+        "cream",
+        "pies",
+        "oatmeal"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Oatmeal Cream Pies mapped to Snack Cakes",
+      "meta_code": 207
+    },
+    {
+      "keywords": [
+        "cookies",
+        "cream",
+        "pies",
+        "oatmeal"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Oatmeal Cream Pies mapped to Snack Cakes",
+      "meta_code": 207
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "cupcakes"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Cupcakes Chocolate mapped to Snack Cakes",
+      "meta_code": 208
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "cupcakes"
+      ],
+      "manufacturer": "hostess",
+      "class_id": 45,
+      "reason": "Cupcakes Chocolate mapped to Snack Cakes",
+      "meta_code": 208
+    },
+    {
+      "keywords": [
+        "muffins",
+        "banana",
+        "nut"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 26,
+      "reason": "Banana Nut Muffins mapped to Muffins",
+      "meta_code": 209
+    },
+    {
+      "keywords": [
+        "blueberry",
+        "muffins"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 26,
+      "reason": "Blueberry Muffins mapped to Muffins",
+      "meta_code": 210
+    },
+    {
+      "keywords": [
+        "marshmallow",
+        "chocolate",
+        "pie"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Pie Marshmallow Chocolate mapped to Snack Cakes",
+      "meta_code": 211
+    },
+    {
+      "keywords": [
+        "wheels",
+        "spin",
+        "pecan"
+      ],
+      "manufacturer": "little debbie",
+      "class_id": 45,
+      "reason": "Spin Wheels Pecan mapped to Snack Cakes",
+      "meta_code": 212
+    },
+    {
+      "keywords": [
+        "mouthwash",
+        "mint",
+        "shield"
+      ],
+      "manufacturer": "listerine",
+      "class_id": 39,
+      "reason": "Mouthwash mapped to Personal Care ",
+      "meta_code": 213
+    },
+    {
+      "keywords": [
+        "lemonade",
+        "bags",
+        "berry",
+        "tea",
+        "black",
+        "decaf",
+        "honey"
+      ],
+      "manufacturer": "lipton",
+      "class_id": 52,
+      "reason": "Tea Bags mapped to Tea",
+      "meta_code": 214
+    },
+    {
+      "keywords": [
+        "coconut",
+        "bags",
+        "green",
+        "passionfruit",
+        "tea",
+        "honey"
+      ],
+      "manufacturer": "lipton",
+      "class_id": 52,
+      "reason": "Tea Bags mapped to Tea",
+      "meta_code": 214
+    },
+    {
+      "keywords": [
+        "bags",
+        "green",
+        "peach",
+        "tea",
+        "dragonfruit",
+        "honey"
+      ],
+      "manufacturer": "lipton",
+      "class_id": 52,
+      "reason": "Tea Bags mapped to Tea",
+      "meta_code": 214
+    },
+    {
+      "keywords": [
+        "stix",
+        "tea",
+        "lemon",
+        "honey"
+      ],
+      "manufacturer": "lipton",
+      "class_id": 52,
+      "reason": "Tea & Honey Lemon mapped to Tea",
+      "meta_code": 215
+    },
+    {
+      "keywords": [
+        "cheese",
+        "ham",
+        "whole",
+        "crust",
+        "grain"
+      ],
+      "manufacturer": "lean pockets",
+      "class_id": 10,
+      "reason": "Ham & Cheese mapped to Frozen Entrees ",
+      "meta_code": 216
+    },
+    {
+      "keywords": [
+        "frozen",
+        "lean",
+        "cusine"
+      ],
+      "manufacturer": "lean cusine",
+      "class_id": 4,
+      "reason": "Lean Cusine Frozen mapped to Frozen Entrees",
+      "meta_code": 217
+    },
+    {
+      "keywords": [
+        "style",
+        "crumbs",
+        "italian",
+        "bread"
+      ],
+      "manufacturer": "kroger",
+      "class_id": 5,
+      "reason": "Bread Crumbs mapped to Baking",
+      "meta_code": 218
+    },
+    {
+      "keywords": [
+        "eggs",
+        "large"
+      ],
+      "manufacturer": "kroger",
+      "class_id": 66,
+      "reason": "Eggs mapped to Dairy/Eggs category",
+      "meta_code": 219
+    },
+    {
+    "keywords": [
+      "eggs",
+      "large"
+    ],
+    "manufacturer": "kroger",
+    "class_id": 66,
+    "reason": "Eggs mapped to Eggs category",
+    "meta_code": 219
+  },
+    {
+      "keywords": [
+        "classic",
+        "garlic",
+        "bread"
+      ],
+      "manufacturer": "kroger",
+      "class_id": 26,
+      "reason": "Garlic Bread Classic mapped to Baked Goods",
+      "meta_code": 220
+    },
+    {
+      "keywords": [
+        "sticks",
+        "twisted",
+        "bread",
+        "garlic"
+      ],
+      "manufacturer": "kroger",
+      "class_id": 26,
+      "reason": "Bread Sticks Garlic mapped to Baked Goods",
+      "meta_code": 221
+    },
+    {
+      "keywords": [
+        "sticks",
+        "twisted",
+        "bread",
+        "mozzarella"
+      ],
+      "manufacturer": "kroger",
+      "class_id": 26,
+      "reason": "Bread Sticks Mozzarella mapped to Baked Goods",
+      "meta_code": 222
+    },
+    {
+      "keywords": [
+        "milk",
+        "2",
+        "american",
+        "singles"
+      ],
+      "manufacturer": "kraft",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 223
+    },
+    {
+      "keywords": [
+        "regular",
+        "whip",
+        "cool"
+      ],
+      "manufacturer": "kraft",
+      "class_id": 11,
+      "reason": "Cool Whip Regular mapped to Dairy",
+      "meta_code": 224
+    },
+    {
+    "keywords": [
+      "deluxe",
+      "mac",
+      "cheese",
+      "four"
+    ],
+    "manufacturer": "kraft",
+    "class_id": 5,
+    "reason": "Mac & Cheese mapped to Pasta / Starchy Foods",
+    "meta_code": 225
+    },
+      {
+          "keywords": [
+          "chipotle",
+          "mac",
+      "southwest",
+      "cheese"
+    ],
+    "manufacturer": "kraft",
+    "class_id": 5,
+    "reason": "Mac & Cheese mapped to Pasta / Starchy Foods",
+    "meta_code": 226
+     },
+    {
+      "keywords": [
+        "bursts",
+        "cherry"
+      ],
+      "manufacturer": "kool aid",
+      "class_id": 30,
+      "reason": "Bursts Cherry mapped to Juice",
+      "meta_code": 226
+    },
+    {
+      "keywords": [
+        "cherry",
+        "jammers"
+      ],
+      "manufacturer": "kool aid",
+      "class_id": 30,
+      "reason": "Jammers Cherry mapped to Juice",
+      "meta_code": 227
+    },
+    {
+      "keywords": [
+        "cordon",
+        "bleu",
+        "cravers",
+        "oven"
+      ],
+      "manufacturer": "koch foods",
+      "class_id": 10,
+      "reason": "Oven Cravers mapped to Frozen Entrees ",
+      "meta_code": 228
+    },
+    {
+      "keywords": [
+        "stock",
+        "chicken",
+        "cooking"
+      ],
+      "manufacturer": "kitchen basics",
+      "class_id": 58,
+      "reason": "Cooking Stock mapped to Broth ",
+      "meta_code": 229
+    },
+    {
+    "keywords": [
+      "flour",
+      "purpose",
+      "all"
+    ],
+    "manufacturer": "king arthur",
+    "class_id": 48,
+    "reason": "Flour All Purpose mapped to Baking Goods (no dedicated flour category)",
+    "meta_code": 230
+  },
+    {
+      "keywords": [
+        "eggo",
+        "cheese",
+        "breakfast",
+        "bacon",
+        "egg",
+        "sandwiches"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 26,
+      "reason": "Breakfast Sandwiches mapped to Frozen Breakfast",
+      "meta_code": 231
+    },
+    {
+      "keywords": [
+        "eggo",
+        "sticks",
+        "french",
+        "cinnamon",
+        "toaster"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 26,
+      "reason": "French Toaster Sticks mapped to Frozen Breakfast",
+      "meta_code": 232
+    },
+    {
+      "keywords": [
+        "pancakes",
+        "eggo",
+        "buttermilk"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 26,
+      "reason": "Eggo Pancakes mapped to Frozen Breakfast",
+      "meta_code": 233
+    },
+    {
+      "keywords": [
+        "eggo",
+        "chocolatey",
+        "chip",
+        "pancakes",
+        "bites"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 26,
+      "reason": "Eggo Pancakes mapped to Frozen Breakfast",
+      "meta_code": 233
+    },
+    {
+      "keywords": [
+        "pancakes",
+        "eggo",
+        "minis"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 26,
+      "reason": "Eggo Pancakes mapped to Frozen Breakfast",
+      "meta_code": 233
+    },
+    {
+      "keywords": [
+        "yogurt",
+        "vanilla",
+        "strawberry",
+        "grain",
+        "nutri",
+        "bar",
+        "fruit"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 12,
+      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "meta_code": 236
+    },
+    {
+      "keywords": [
+        "protein",
+        "yogurt",
+        "snack",
+        "bar",
+        "k",
+        "greek",
+        "fruit",
+        "special"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 12,
+      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "meta_code": 236
+    },
+    {
+      "keywords": [
+        "crunch",
+        "toffee",
+        "grain",
+        "nutri",
+        "bar"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 12,
+      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "meta_code": 237
+    },
+    {
+      "keywords": [
+        "krispies",
+        "marshmallows",
+        "treats",
+        "squares",
+        "rice"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 12,
+      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "meta_code": 238
+    },
+    {
+      "keywords": [
+        "dreamy",
+        "coconut",
+        "indulgent",
+        "snack",
+        "k",
+        "bites",
+        "moments",
+        "special"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 12,
+      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "meta_code": 239
+    },
+    {
+      "keywords": [
+        "caramel",
+        "snack",
+        "pretzel",
+        "k",
+        "bliss",
+        "bites",
+        "moments",
+        "special"
+      ],
+      "manufacturer": "kelloggs",
+      "class_id": 12,
+      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "meta_code": 240
+    },
+    {
+      "keywords": [
+        "guava",
+        "nectar"
+      ],
+      "manufacturer": "jumex",
+      "class_id": 30,
+      "reason": "Nectar Guava mapped to Juice",
+      "meta_code": 241
+    },
+    {
+      "keywords": [
+        "oil",
+        "original",
+        "baby"
+      ],
+      "manufacturer": "johnsons",
+      "class_id": 74,
+      "reason": "Baby Oil mapped to Bathroom Products",
+      "meta_code": 242
+    },
+    {
+      "keywords": [
+        "original",
+        "powder",
+        "baby"
+      ],
+      "manufacturer": "johnsons",
+      "class_id": 74,
+      "reason": "Baby Powder mapped to Bathroom Products",
+      "meta_code": 243
+    },
+    {
+      "keywords": [
+        "original",
+        "shampoo",
+        "baby"
+      ],
+      "manufacturer": "johnsons",
+      "class_id": 79,
+      "reason": "Baby Shampoo mapped to Bathroom Products",
+      "meta_code": 244
+    },
+    {
+      "keywords": [
+        "yellow",
+        "cake",
+        "mix"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 28,
+      "reason": "Cake Mix Yellow mapped to Baking Mix",
+      "meta_code": 245
+    },
+    {
+      "keywords": [
+        "mix",
+        "baking"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 28,
+      "reason": "Mix Baking mapped to Baking Mix",
+      "meta_code": 246
+    },
+    {
+      "keywords": [
+        "mix",
+        "crust",
+        "pizza"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 28,
+      "reason": "Mix Pizza Crust mapped to Baking Mix",
+      "meta_code": 247
+    },
+    {
+      "keywords": [
+        "blueberry",
+        "mix",
+        "muffin"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 26,
+      "reason": "Blueberry Muffin Mix mapped to Muffins",
+      "meta_code": 248
+    },
+    {
+      "keywords": [
+        "corn",
+        "mix",
+        "muffin"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 26,
+      "reason": "Corn Muffin Mix mapped to Muffins",
+      "meta_code": 249
+    },
+    {
+      "keywords": [
+        "corn",
+        "mix",
+        "muffin"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 26,
+      "reason": "Corn Muffin Mix mapped to Muffins",
+      "meta_code": 249
+    },
+    {
+      "keywords": [
+        "corn",
+        "mix",
+        "muffin",
+        "vegetarian"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 26,
+      "reason": "Corn Muffin Mix mapped to Muffins",
+      "meta_code": 249
+    },
+    {
+      "keywords": [
+        "raspberry",
+        "mix",
+        "muffin"
+      ],
+      "manufacturer": "jiffy",
+      "class_id": 26,
+      "reason": "Raspberry Muffin Mix mapped to Muffins",
+      "meta_code": 250
+    },
+    {
+      "keywords": [
+        "four",
+        "cheese",
+        "mashed",
+        "potatoes"
+      ],
+      "manufacturer": "idahoan",
+      "class_id": 57,
+      "reason": "Mashed Potatoes mapped to Potato Products",
+      "meta_code": 251
+    },
+    {
+      "keywords": [
+        "cream",
+        "sour",
+        "original"
+      ],
+      "manufacturer": "hunts",
+      "class_id": 11,
+      "reason": "Sour Cream mapped to Dairy",
+      "meta_code": 252
+    },
+    {
+      "keywords": [
+        "ding",
+        "cake",
+        "dongs"
+      ],
+      "manufacturer": "hostess",
+      "class_id": 45,
+      "reason": "Cake Ding Dongs mapped to Snack Cakes",
+      "meta_code": 253
+    },
+    {
+      "keywords": [
+        "ho",
+        "cake",
+        "hos"
+      ],
+      "manufacturer": "hostess",
+      "class_id": 45,
+      "reason": "Cake Ho Hos mapped to Snack Cakes",
+      "meta_code": 254
+    },
+    {
+      "keywords": [
+        "twinkies",
+        "cake"
+      ],
+      "manufacturer": "hostess",
+      "class_id": 45,
+      "reason": "Cake Twinkies mapped to Snack Cakes",
+      "meta_code": 255
+    },
+    {
+      "keywords": [
+        "twinkies",
+        "cake"
+      ],
+      "manufacturer": "hostess",
+      "class_id": 45,
+      "reason": "Cake Twinkies mapped to Snack Cakes",
+      "meta_code": 255
+    },
+    {
+      "keywords": [
+        "pie",
+        "apple"
+      ],
+      "manufacturer": "hostess",
+      "class_id": 45,
+      "reason": "Pie Apple mapped to Snack Cakes",
+      "meta_code": 256
+    },
+    {
+      "keywords": [
+        "pie",
+        "apple"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Pie Apple mapped to Snack Cakes",
+      "meta_code": 256
+    },
+    {
+      "keywords": [
+        "high",
+        "counter",
+        "quality",
+        "cleaner"
+      ],
+      "manufacturer": "high quality",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "high",
+        "cleaner",
+        "glass",
+        "quality"
+      ],
+      "manufacturer": "high quality",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "bowl",
+        "high",
+        "quality",
+        "toilet"
+      ],
+      "manufacturer": "high quality",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "counter",
+        "denny"
+      ],
+      "manufacturer": "denny",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "glass",
+        "denny"
+      ],
+      "manufacturer": "denny",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "bowl",
+        "toilet",
+        "denny"
+      ],
+      "manufacturer": "denny",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "cormorant",
+        "counter"
+      ],
+      "manufacturer": "cormorant",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "cormorant",
+        "cleaner",
+        "glass"
+      ],
+      "manufacturer": "cormorant",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "cleaner",
+        "cormorant",
+        "toilet",
+        "bowl"
+      ],
+      "manufacturer": "cormorant",
+      "class_id": 21,
+      "reason": "Cleaner mapped to Cleaners",
+      "meta_code": 257
+    },
+    {
+      "keywords": [
+        "mild",
+        "salsa"
+      ],
+      "manufacturer": "herdez",
+      "class_id": 48,
+      "reason": "Salsa Mild mapped to Sauces",
+      "meta_code": 258
+    },
+    {
+      "keywords": [
+        "cream",
+        "sour",
+        "ranch",
+        "bacon",
+        "dip"
+      ],
+      "manufacturer": "heluva good",
+      "class_id": 11,
+      "reason": "Sour Cream Dip Bacon Ranch mapped to Dips",
+      "meta_code": 259
+    },
+    {
+      "keywords": [
+        "original",
+        "ketchup"
+      ],
+      "manufacturer": "heinz",
+      "class_id": 48,
+      "reason": "Ketchup Original mapped to Condiments",
+      "meta_code": 260
+    },
+    {
+      "keywords": [
+        "coconut",
+        "original",
+        "milk"
+      ],
+      "manufacturer": "goya",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 261
+    },
+    {
+      "keywords": [
+        "flavor",
+        "chocolate",
+        "straws"
+      ],
+      "manufacturer": "got milk",
+      "class_id": 52,
+      "reason": "Flavor Straws mapped to Flavored Drinks",
+      "meta_code": 262
+    },
+    {
+      "keywords": [
+        "flavor",
+        "magic",
+        "strawberry",
+        "straws"
+      ],
+      "manufacturer": "got milk",
+      "class_id": 52,
+      "reason": "Flavor Straws mapped to Flavored Drinks",
+      "meta_code": 262
+    },
+    {
+      "keywords": [
+        "cookies",
+        "chocolate"
+      ],
+      "manufacturer": "glutino",
+      "class_id": 45,
+      "reason": "Cookies Chocolate mapped to Cookies",
+      "meta_code": 263
+    },
+    {
+      "keywords": [
+        "cookies",
+        "chocolate",
+        "vanilla",
+        "creme"
+      ],
+      "manufacturer": "glutino",
+      "class_id": 45,
+      "reason": "Cookies Chocolate mapped to Cookies",
+      "meta_code": 263
+    },
+    {
+      "keywords": [
+        "water",
+        "citrus",
+        "tropical",
+        "vitamin"
+      ],
+      "manufacturer": "glaceau",
+      "class_id": 52,
+      "reason": "Vitamin Water mapped to Flavored Drinks",
+      "meta_code": 264
+    },
+    {
+      "keywords": [
+        "popcorners",
+        "sea",
+        "salt"
+      ],
+      "manufacturer": "gefen",
+      "class_id": 12,
+      "reason": "PopCorners mapped to Snack Foods",
+      "meta_code": 265
+    },
+    {
+      "keywords": [
+        "lime",
+        "g2"
+      ],
+      "manufacturer": "gatorade",
+      "class_id": 52,
+      "reason": "G2 Lime mapped to Sports Drinks",
+      "meta_code": 266
+    },
+    {
+      "keywords": [
+        "sports",
+        "gatorade",
+        "drink"
+      ],
+      "manufacturer": "gatorade",
+      "class_id": 52,
+      "reason": "Sports Drink mapped to Sports Drinks",
+      "meta_code": 267
+    },
+    {
+      "keywords": [
+        "lemonade",
+        "sports",
+        "strawberry",
+        "drink"
+      ],
+      "manufacturer": "gatorade",
+      "class_id": 52,
+      "reason": "Sports Drink mapped to Sports Drinks",
+      "meta_code": 267
+    },
+    {
+      "keywords": [
+        "49",
+        "raisin",
+        "ezekiel",
+        "cinnamon",
+        "bread"
+      ],
+      "manufacturer": "food for life",
+      "class_id": 27,
+      "reason": "Bread Cinnamon Raisin mapped to Sliced Bread",
+      "meta_code": 268
+    },
+    {
+      "keywords": [
+        "flax",
+        "bread",
+        "49",
+        "ezekiel"
+      ],
+      "manufacturer": "food for life",
+      "class_id": 27,
+      "reason": "Bread Flax mapped to Sliced Bread",
+      "meta_code": 269
+    },
+    {
+      "keywords": [
+        "49",
+        "sesame",
+        "ezekiel",
+        "sprouted",
+        "grain",
+        "bread"
+      ],
+      "manufacturer": "food for life",
+      "class_id": 27,
+      "reason": "Bread Sesame Sprouted Grain mapped to Sliced Bread",
+      "meta_code": 270
+    },
+    {
+      "keywords": [
+        "49",
+        "whole",
+        "ezekiel",
+        "grain",
+        "bread"
+      ],
+      "manufacturer": "food for life",
+      "class_id": 27,
+      "reason": "Bread Whole Grain mapped to Sliced Bread",
+      "meta_code": 271
+    },
+    {
+      "keywords": [
+        "simply",
+        "mix",
+        "bread",
+        "homemade"
+      ],
+      "manufacturer": "fleischmanns",
+      "class_id": 28,
+      "reason": "Bread Mix mapped to Baking Mixes",
+      "meta_code": 272
+    },
+    {
+    "keywords": [
+      "simply",
+      "cornbread",
+      "homemade",
+      "mix"
+    ],
+    "manufacturer": "fleischmanns",
+    "class_id": 28,
+    "reason": "Bread Mix mapped to Baking Mixes",
+    "meta_code": 272
+  },
+    {
+      "keywords": [
+        "air",
+        "effects",
+        "gain",
+        "with"
+      ],
+      "manufacturer": "febreze",
+      "class_id": 20,
+      "reason": "Air Effects mapped to Air Fresheners ",
+      "meta_code": 273
+    },
+    {
+      "keywords": [
+        "swirl",
+        "cinnamon",
+        "buns"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Buns Cinnamon Swirl mapped to Snack Cakes",
+      "meta_code": 274
+    },
+    {
+      "keywords": [
+        "super",
+        "cinnamons",
+        "buns"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Buns Super Cinnamons mapped to Snack Cakes",
+      "meta_code": 275
+    },
+    {
+      "keywords": [
+        "butter",
+        "all",
+        "french",
+        "crumb",
+        "cake"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake French Crumb mapped to Snack Cakes",
+      "meta_code": 276
+    },
+    {
+      "keywords": [
+        "buns",
+        "cake",
+        "cheese",
+        "breakfast"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Cheese Breakfast Buns mapped to Snack Cakes",
+      "meta_code": 277
+    },
+    {
+      "keywords": [
+        "chocolate",
+        "cake",
+        "fudge"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Chocolate Fudge mapped to Snack Cakes",
+      "meta_code": 278
+    },
+    {
+      "keywords": [
+        "gold",
+        "fudge",
+        "with",
+        "chocolate",
+        "icing",
+        "cake"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Chocolate Fudge mapped to Snack Cakes",
+      "meta_code": 278
+    },
+    {
+      "keywords": [
+        "cake",
+        "jumbo",
+        "bun",
+        "honey",
+        "glazed"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Jumbo Glazed Honey Bun mapped to Snack Cakes",
+      "meta_code": 279
+    },
+    {
+      "keywords": [
+        "crunch",
+        "cake",
+        "lemon"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Lemon Crunch mapped to Snack Cakes",
+      "meta_code": 280
+    },
+    {
+      "keywords": [
+        "loaf",
+        "cake",
+        "lemon"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Lemon Loaf mapped to Snack Cakes",
+      "meta_code": 281
+    },
+    {
+      "keywords": [
+        "crunch",
+        "cake",
+        "louisiana"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Louisiana Crunch mapped to Snack Cakes",
+      "meta_code": 282
+    },
+    {
+      "keywords": [
+        "cake",
+        "pound"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Pound Cake mapped to Snack Cakes",
+      "meta_code": 283
+    },
+    {
+      "keywords": [
+        "wrapped",
+        "mini",
+        "cake",
+        "pound"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Pound Cake mapped to Snack Cakes",
+      "meta_code": 283
+    },
+    {
+      "keywords": [
+        "wrapped",
+        "mini",
+        "cake",
+        "crumb"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cake Wrapped Crumb Mini mapped to Snack Cakes",
+      "meta_code": 284
+    },
+    {
+      "keywords": [
+        "chip",
+        "cookies",
+        "chocolate"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cookies Chocolate Chip mapped to Cookies",
+      "meta_code": 285
+    },
+    {
+      "keywords": [
+        "soft",
+        "chip",
+        "baked",
+        "cookies",
+        "chocolate"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Cookies Chocolate Chip mapped to Cookies",
+      "meta_code": 285
+    },
+    {
+      "keywords": [
+        "cheese",
+        "twist",
+        "danish"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Danish Cheese Twist mapped to Snack Cakes",
+      "meta_code": 286
+    },
+    {
+      "keywords": [
+        "cherry",
+        "cheese",
+        "danish"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Danish Cherry Cheese mapped to Snack Cakes",
+      "meta_code": 287
+    },
+    {
+      "keywords": [
+        "raspberry",
+        "danish"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Danish Raspberry mapped to Snack Cakes",
+      "meta_code": 288
+    },
+    {
+      "keywords": [
+        "raspberry",
+        "twist",
+        "danish"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Danish Raspberry mapped to Snack Cakes",
+      "meta_code": 288
+    },
+    {
+      "keywords": [
+        "little",
+        "fudge",
+        "bites",
+        "brownie"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Little Bites mapped to Snack Cakes",
+      "meta_code": 289
+    },
+    {
+      "keywords": [
+        "little",
+        "mini",
+        "chip",
+        "bites",
+        "chocolate",
+        "banana"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Little Bites mapped to Snack Cakes",
+      "meta_code": 289
+    },
+    {
+      "keywords": [
+        "blueberry",
+        "little",
+        "mini",
+        "bites"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Little Bites mapped to Snack Cakes",
+      "meta_code": 289
+    },
+    {
+      "keywords": [
+        "little",
+        "snickerdoodle",
+        "cinnamon",
+        "bites",
+        "sugar"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Little Bites mapped to Snack Cakes",
+      "meta_code": 289
+    },
+    {
+      "keywords": [
+        "chip",
+        "muffins",
+        "mini",
+        "chocolate"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 26,
+      "reason": "Chocolate Chip Mini Muffins mapped to Muffins",
+      "meta_code": 290
+    },
+    {
+      "keywords": [
+        "puffs",
+        "apple"
+      ],
+      "manufacturer": "entenmanns",
+      "class_id": 45,
+      "reason": "Puffs Apple mapped to Snack Cakes",
+      "meta_code": 291
+    },
+    {
+      "keywords": [
+        "lime",
+        "key",
+        "pie"
+      ],
+      "manufacturer": "edwards",
+      "class_id": 9,
+      "reason": "Pie Key Lime mapped to Frozen Desserts",
+      "meta_code": 292
+    },
+    {
+      "keywords": [
+        "cookies",
+        "shortbread"
+      ],
+      "manufacturer": "eating right",
+      "class_id": 45,
+      "reason": "Shortbread Cookies mapped to Cookies",
+      "meta_code": 293
+    },
+    {
+      "keywords": [
+        "cake",
+        "coffee",
+        "cakes"
+      ],
+      "manufacturer": "drakes",
+      "class_id": 45,
+      "reason": "Cake mapped to Snack Cakes",
+      "meta_code": 294
+    },
+    {
+      "keywords": [
+        "dogs",
+        "cake",
+        "devil"
+      ],
+      "manufacturer": "drakes",
+      "class_id": 45,
+      "reason": "Cake mapped to Snack Cakes",
+      "meta_code": 294
+    },
+    {
+      "keywords": [
+        "cake",
+        "dings",
+        "ring"
+      ],
+      "manufacturer": "drakes",
+      "class_id": 45,
+      "reason": "Cake mapped to Snack Cakes",
+      "meta_code": 294
+    },
+    {
+      "keywords": [
+        "cake",
+        "yodels"
+      ],
+      "manufacturer": "drakes",
+      "class_id": 45,
+      "reason": "Cake mapped to Snack Cakes",
+      "meta_code": 294
+    },
+    {
+      "keywords": [
+        "bunch",
+        "bananas"
+      ],
+      "manufacturer": "dole",
+      "class_id": 13,
+      "reason": "Bananas mapped to Fresh Fruit",
+      "meta_code": 295
+    },
+    {
+      "keywords": [
+        "meals",
+        "beef",
+        "stew",
+        "hearty"
+      ],
+      "manufacturer": "dinty moore",
+      "class_id": 4,
+      "reason": "Hearty Meals Beef Stew mapped to Canned Meals",
+      "meta_code": 296
+    },
+    {
+    "keywords": [
+      "original",
+      "shampoo",
+      "baby"
+    ],
+    "manufacturer": "delta",
+    "class_id": 79,
+    "reason": "Shampoo mapped to Bathroom Products / Health and Hygiene",
+    "meta_code": 297
+  },
+    {
+      "keywords": [
+        "diced",
+        "cup",
+        "mango",
+        "fruit"
+      ],
+      "manufacturer": "del monte",
+      "class_id": 82,
+      "reason": "Fruit Cup mapped to Canned Fruit",
+      "meta_code": 298
+    },
+    {
+      "keywords": [
+        "squeezers",
+        "burst",
+        "berry",
+        "mixed",
+        "fruit"
+      ],
+      "manufacturer": "del monte",
+      "class_id": 82,
+      "reason": "Fruit Burst Squeezers mapped to Canned Fruit",
+      "meta_code": 299
+    },
+    {
+      "keywords": [
+        "3d",
+        "arctic",
+        "white",
+        "fresh"
+      ],
+      "manufacturer": "crest",
+      "class_id": 39,
+      "reason": "3D White Arctic Fresh mapped to Personal Care ",
+      "meta_code": 300
+    },
+    {
+      "keywords": [
+        "pasta",
+        "lasagna"
+      ],
+      "manufacturer": "creamette",
+      "class_id": 5,
+      "reason": "Pasta Lasagna mapped to Pasta",
+      "meta_code": 301
+    },
+    {
+      "keywords": [
+        "lemonade",
+        "yellow"
+      ],
+      "manufacturer": "country time",
+      "class_id": 30,
+      "reason": "Lemonade mapped to Juice",
+      "meta_code": 302
+    },
+    {
+      "keywords": [
+        "spread",
+        "original"
+      ],
+      "manufacturer": "country crock",
+      "class_id": 11,
+      "reason": "Spread Original mapped to Dairy",
+      "meta_code": 303
+    },
+    {
+    "keywords": [
+      "tomatoes",
+      "rotel",
+      "chilies",
+      "green",
+      "diced"
+    ],
+    "manufacturer": "con agar foods",
+    "class_id": 62,
+    "reason": "Tomatoes mapped to Canned Vegetables",
+    "meta_code": 304
+  },
+    {
+      "keywords": [
+        "ff",
+        "ls",
+        "chicken",
+        "broth"
+      ],
+      "manufacturer": "college inn",
+      "class_id": 58,
+      "reason": "Broth Chicken mapped to Broth ",
+      "meta_code": 305
+    },
+    {
+      "keywords": [
+        "disinfecting",
+        "lemon",
+        "fresh",
+        "wipes"
+      ],
+      "manufacturer": "clorox",
+      "class_id": 21,
+      "reason": "Wipes Lemon Fresh mapped to Cleaners",
+      "meta_code": 306
+    },
+    {
+      "keywords": [
+        "bleach",
+        "ultra",
+        "fresh",
+        "liquid",
+        "mountain"
+      ],
+      "manufacturer": "clorox",
+      "class_id": 21,
+      "reason": "Bleach mapped to Cleaners",
+      "meta_code": 307
+    },
+    {
+    "keywords": [
+      "snack",
+      "peanut",
+      "mix",
+      "chocolate"
+    ],
+    "manufacturer": "chex mix",
+    "class_id": 12,
+    "reason": "Snack Mix mapped to Snack Foods",
+    "meta_code": 308
+  },
+  {
+    "keywords": [
+      "whole",
+      "beefaroni",
+      "grain"
+    ],
+    "manufacturer": "chef boyardee",
+    "class_id": 58,
+    "reason": "Beefaroni mapped to Canned Pasta / Canned Foods",
+    "meta_code": 309
+  },
+  {
+    "keywords": [
+      "meatballs",
+      "mini",
+      "dinos",
+      "bites"
+    ],
+    "manufacturer": "chef boyardee",
+    "class_id": 58,
+    "reason": "Mini Bites mapped to Canned Pasta / Canned Foods",
+    "meta_code": 310
+  },
+  {
+    "keywords": [
+      "beef",
+      "ravioli"
+    ],
+    "manufacturer": "chef boyardee",
+    "class_id": 58,
+    "reason": "Ravioli mapped to Canned Pasta / Canned Foods",
+    "meta_code": 311
+  },
+    {
+      "keywords": [
+        "milk",
+        "original",
+        "malted",
+        "mix",
+        "drink"
+      ],
+      "manufacturer": "carnation",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 312
+    },
+    {
+      "keywords": [
+        "banana",
+        "cooler",
+        "strawberry",
+        "coastal"
+      ],
+      "manufacturer": "capri sun",
+      "class_id": 30,
+      "reason": "Cooler mapped to Juice",
+      "meta_code": 313
+    },
+    {
+      "keywords": [
+        "superv",
+        "apple"
+      ],
+      "manufacturer": "capri sun",
+      "class_id": 30,
+      "reason": "SuperV Apple mapped to Juice",
+      "meta_code": 314
+    },
+    {
+      "keywords": [
+        "snacks",
+        "chips",
+        "potato"
+      ],
+      "manufacturer": "cape cod",
+      "class_id": 12,
+      "reason": "Potato Chips mapped to Chips",
+      "meta_code": 315
+    },
+    {
+    "keywords": [
+      "sodium",
+      "chicken",
+      "noodle",
+      "low"
+    ],
+    "manufacturer": "campbells",
+    "class_id": 58,
+    "reason": "Chicken Noodle Low Sodium mapped to Soups",
+    "meta_code": 316
+  },
+  {
+    "keywords": [
+      "cream",
+      "soup",
+      "chicken",
+      "of"
+    ],
+    "manufacturer": "campbells",
+    "class_id": 58,
+    "reason": "Soup mapped to Soups",
+    "meta_code": 317
+  },
+  {
+    "keywords": [
+      "mushroom",
+      "cream",
+      "soup",
+      "of"
+    ],
+    "manufacturer": "campbells",
+    "class_id": 58,
+    "reason": "Soup mapped to Soups",
+    "meta_code": 319
+  },
+  {
+    "keywords": [
+      "mushroom",
+      "cream",
+      "soup"
+    ],
+    "manufacturer": "campbells",
+    "class_id": 58,
+    "reason": "Soup mapped to Soups",
+    "meta_code": 320
+  },
+  {
+    "keywords": [
+      "gravy",
+      "turkey"
+    ],
+    "manufacturer": "campbells",
+    "class_id": 48,
+    "reason": "Gravy mapped to Condiments",
+    "meta_code": 318
+  },
+    {
+      "keywords": [
+        "spaghetti",
+        "os",
+        "plus",
+        "calcium"
+      ],
+      "manufacturer": "campbells",
+      "class_id": 4,
+      "reason": "Spaghetti O's mapped to Canned Pasta",
+      "meta_code": 319
+    },
+    {
+      "keywords": [
+        "certified",
+        "burger",
+        "beef",
+        "angus"
+      ],
+      "manufacturer": "bubba",
+      "class_id": 8,
+      "reason": "Burger mapped to Deli Meats",
+      "meta_code": 320
+    },
+    {
+      "keywords": [
+        "milk",
+        "condensed",
+        "sweetened"
+      ],
+      "manufacturer": "borden",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 321
+    },
+    {
+      "keywords": [
+        "drop",
+        "citrus",
+        "soda"
+      ],
+      "manufacturer": "big k",
+      "class_id": 52,
+      "reason": "Soda mapped to Soft Drinks",
+      "meta_code": 322
+    },
+    {
+      "keywords": [
+        "regular",
+        "cola"
+      ],
+      "manufacturer": "big k",
+      "class_id": 52,
+      "reason": "Cola Regular mapped to Soft Drinks",
+      "meta_code": 323
+    },
+    {
+      "keywords": [
+        "snacks",
+        "fruit",
+        "spongebob"
+      ],
+      "manufacturer": "betty crocker",
+      "class_id": 109,
+      "reason": "Fruit Snacks mapped to Fruit Snacks",
+      "meta_code": 324
+    },
+    {
+      "keywords": [
+        "cheese",
+        "broccoli",
+        "breast",
+        "chicken",
+        "stuffed"
+      ],
+      "manufacturer": "barber",
+      "class_id": 4,
+      "reason": "Stuffed Broccoli & Cheese mapped to Frozen Entrees",
+      "meta_code": 325
+    },
+    {
+      "keywords": [
+        "maple",
+        "serve",
+        "sausage",
+        "links",
+        "brown",
+        "n"
+      ],
+      "manufacturer": "banquet",
+      "class_id": 8,
+      "reason": "Sausage Maple Links mapped to Frozen Meat",
+      "meta_code": 326
+    },
+    {
+      "keywords": [
+        "serve",
+        "original",
+        "sausage",
+        "links",
+        "brown",
+        "n"
+      ],
+      "manufacturer": "banquet",
+      "class_id": 8,
+      "reason": "Sausage Original Links mapped to Frozen Meat",
+      "meta_code": 327
+    },
+    {
+      "keywords": [
+        "turkey",
+        "serve",
+        "sausage",
+        "brown",
+        "n"
+      ],
+      "manufacturer": "banquet",
+      "class_id": 8,
+      "reason": "Sausage Turkey mapped to Frozen Meat",
+      "meta_code": 328
+    },
+    {
+      "keywords": [
+        "strips",
+        "chicken",
+        "breast"
+      ],
+      "manufacturer": "banquet",
+      "class_id": 8,
+      "reason": "Chicken mapped to Frozen Meat",
+      "meta_code": 329
+    },
+    {
+      "keywords": [
+        "chicken",
+        "patties"
+      ],
+      "manufacturer": "banquet",
+      "class_id": 8,
+      "reason": "Chicken mapped to Frozen Meat",
+      "meta_code": 329
+    },
+    {
+      "keywords": [
+        "patty",
+        "chicken"
+      ],
+      "manufacturer": "banquet",
+      "class_id": 8,
+      "reason": "Chicken mapped to Frozen Meat",
+      "meta_code": 329
+    },
+    {
+      "keywords": [
+        "scramble",
+        "bacon"
+      ],
+      "manufacturer": "atkins",
+      "class_id": 8,
+      "reason": "Scramble mapped to Frozen Breakfast",
+      "meta_code": 330
+    },
+    {
+      "keywords": [
+        "sausage",
+        "scramble",
+        "farmhousestyle"
+      ],
+      "manufacturer": "atkins",
+      "class_id": 8,
+      "reason": "Scramble mapped to Frozen Breakfast",
+      "meta_code": 330
+    },
+    {
+      "keywords": [
+        "coconut",
+        "lite",
+        "milk"
+      ],
+      "manufacturer": "asian gourmet",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 331
+    },
+    {
+      "keywords": [
+        "coconut",
+        "unsweetened",
+        "milk"
+      ],
+      "manufacturer": "a taste of thai",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 331
+    },
+    {
+      "keywords": [
+        "sandwich",
+        "honey",
+        "thins",
+        "wheat"
+      ],
+      "manufacturer": "arnold",
+      "class_id": 27,
+      "reason": "Sandwich Thins mapped to Sliced Bread",
+      "meta_code": 332
+    },
+    {
+      "keywords": [
+        "sandwich",
+        "thins",
+        "multigrain"
+      ],
+      "manufacturer": "arnold",
+      "class_id": 27,
+      "reason": "Sandwich Thins mapped to Sliced Bread",
+      "meta_code": 332
+    },
+    {
+      "keywords": [
+        "sandwich",
+        "thins",
+        "rolls",
+        "potato"
+      ],
+      "manufacturer": "arnold",
+      "class_id": 27,
+      "reason": "Sandwich Thins mapped to Sliced Bread",
+      "meta_code": 332
+    },
+    {
+      "keywords": [
+        "whole",
+        "sandwich",
+        "thins",
+        "wheat"
+      ],
+      "manufacturer": "arnold",
+      "class_id": 27,
+      "reason": "Sandwich Thins mapped to Sliced Bread",
+      "meta_code": 332
+    },
+    {
+      "keywords": [
+        "spiced",
+        "mix",
+        "cider",
+        "drink"
+      ],
+      "manufacturer": "alpine",
+      "class_id": 52,
+      "reason": "Drink Mix mapped to Hot Beverages",
+      "meta_code": 333
+    },
+    {
+      "keywords": [
+        "milk",
+        "original",
+        "almond"
+      ],
+      "manufacturer": "almond breeze",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 334
+    },
+    {
+      "keywords": [
+        "milk",
+        "unsweetened",
+        "almond"
+      ],
+      "manufacturer": "almond breeze",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 334
+    },
+    {
+      "keywords": [
+        "milk",
+        "vanilla",
+        "almond"
+      ],
+      "manufacturer": "almond breeze",
+      "class_id": 76,
+      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "meta_code": 334
+    },
+    {
+      "keywords": [
+        "snack",
+        "vanilla",
+        "cakes"
+      ],
+      "manufacturer": "all but gluten",
+      "class_id": 45,
+      "reason": "Snack Cakes mapped to Snack Cakes",
+      "meta_code": 335
+    },
+    {
+      "keywords": [
+        "free",
+        "ultra",
+        "clear",
+        "2x",
+        "detergent",
+        "laundry"
+      ],
+      "manufacturer": "all",
+      "class_id": 21,
+      "reason": "All Laundry Detergent mapped to Cleaners",
+      "meta_code": 336
+    },
+    {
+      "keywords": [
+        "griller",
+        "carmelized",
+        "gourmet",
+        "onion"
+      ],
+      "manufacturer": "al fresco",
+      "class_id": 8,
+      "reason": "Gourmet Griller mapped to Frozen Meat",
+      "meta_code": 337
+    },
+    {
+      "keywords": [
+        "griller",
+        "italian",
+        "sweet",
+        "gourmet"
+      ],
+      "manufacturer": "al fresco",
+      "class_id": 8,
+      "reason": "Gourmet Griller mapped to Frozen Meat",
+      "meta_code": 337
+    },
+    {
+      "keywords": [
+        "meatballs",
+        "caramelized",
+        "onion"
+      ],
+      "manufacturer": "aidells",
+      "class_id": 8,
+      "reason": "Meatballs mapped to Deli Meats",
+      "meta_code": 338
+    },
+    {
+      "keywords": [
+        "pineapple",
+        "meatballs",
+        "teriyaki"
+      ],
+      "manufacturer": "aidells",
+      "class_id": 8,
+      "reason": "Meatballs mapped to Deli Meats",
+      "meta_code": 338
+    },
+    {
+      "keywords": [
+        "meatballs",
+        "sundried",
+        "tomato"
+      ],
+      "manufacturer": "aidells",
+      "class_id": 8,
+      "reason": "Meatballs mapped to Deli Meats",
+      "meta_code": 338
+    },
+    {
+      "keywords": [
+        "butter",
+        "popcorn"
+      ],
+      "manufacturer": "act ii",
+      "class_id": 12,
+      "reason": "Popcorn Butter mapped to Snack Foods",
+      "meta_code": 339
+    },
+    {
+      "keywords": [
+        "regular",
+        "iced",
+        "tea",
+        "mix"
+      ],
+      "manufacturer": "4c",
+      "class_id": 52,
+      "reason": "Iced Tea Mix mapped to Tea",
+      "meta_code": 340
+    }
+  ]
