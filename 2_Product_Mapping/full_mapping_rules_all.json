@@ -362,7 +362,7 @@
         "baby"
       ],
       "manufacturer": "soft & precious",
-      "class_id": 87,
+      "class_id": 79,
       "reason": "Personal Care products mapped to Personal Hygiene",
       "meta_code": 121
     },
@@ -373,7 +373,7 @@
         "moist"
       ],
       "manufacturer": "soft & precious",
-      "class_id": 87,
+      "class_id": 79,
       "reason": "Personal Care products mapped to Personal Hygiene",
       "meta_code": 122
     },
@@ -384,7 +384,7 @@
         "detangling"
       ],
       "manufacturer": "soft & precious",
-      "class_id": 87,
+      "class_id": 79,
       "reason": "Personal Care products mapped to Personal Hygiene",
       "meta_code": 123
     },
@@ -701,7 +701,7 @@
         "pork"
       ],
       "manufacturer": "purnell",
-      "class_id": 109,
+      "class_id": 81,
       "reason": "Sausage Pork re-mapped to Hot Dogs by AU",
       "meta_code": 153
     },
@@ -819,7 +819,7 @@
         "original"
       ],
       "manufacturer": "pet",
-      "class_id": 36,
+      "class_id": 50,
       "reason": "Evaporated Milk is a baking good. Closest match is sugar",
       "meta_code": 158
     },
