@@ -252,8 +252,8 @@
         "pork"
       ],
       "manufacturer": "stove top",
-      "class_id": 16,
-      "reason": "Stuffing Mix Pork mapped to Deli Salads (best match)",
+      "class_id": 4,
+      "reason": "Stuffing Mix re-mapped to spices by AU",
       "meta_code": 112
     },
     {
@@ -362,7 +362,7 @@
         "baby"
       ],
       "manufacturer": "soft & precious",
-      "class_id": 39,
+      "class_id": 87,
       "reason": "Personal Care products mapped to Personal Hygiene",
       "meta_code": 121
     },
@@ -373,7 +373,7 @@
         "moist"
       ],
       "manufacturer": "soft & precious",
-      "class_id": 39,
+      "class_id": 87,
       "reason": "Personal Care products mapped to Personal Hygiene",
       "meta_code": 122
     },
@@ -384,7 +384,7 @@
         "detangling"
       ],
       "manufacturer": "soft & precious",
-      "class_id": 39,
+      "class_id": 87,
       "reason": "Personal Care products mapped to Personal Hygiene",
       "meta_code": 123
     },
@@ -631,7 +631,7 @@
       "manufacturer": "rolled gold",
       "class_id": 82,
       "reason": "Pretzels Honey Wheat Rods mapped to Snack Foods",
-      "meta_code": 172
+      "meta_code": 144
     },
     {
       "keywords": [
@@ -701,8 +701,8 @@
         "pork"
       ],
       "manufacturer": "purnell",
-      "class_id": 8,
-      "reason": "Sausage Pork mapped to Deli Meats",
+      "class_id": 109,
+      "reason": "Sausage Pork re-mapped to Hot Dogs by AU",
       "meta_code": 153
     },
     {
@@ -733,7 +733,7 @@
         "grands"
       ],
       "manufacturer": "pillsbury",
-      "class_id": 26,
+      "class_id": 28,
       "reason": "Biscuits Buttermilk mapped to Biscuits",
       "meta_code": 156
     },
@@ -746,7 +746,7 @@
         "flaky"
       ],
       "manufacturer": "pillsbury",
-      "class_id": 26,
+      "class_id": 28,
       "reason": "Biscuits Buttermilk mapped to Biscuits",
       "meta_code": 156
     },
@@ -759,7 +759,7 @@
         "homestyle"
       ],
       "manufacturer": "pillsbury",
-      "class_id": 26,
+      "class_id": 28,
       "reason": "Biscuits Buttermilk mapped to Biscuits",
       "meta_code": 156
     },
@@ -772,7 +772,7 @@
         "homestyle"
       ],
       "manufacturer": "pillsbury",
-      "class_id": 26,
+      "class_id": 28,
       "reason": "Biscuits Buttermilk mapped to Biscuits",
       "meta_code": 156
     },
@@ -786,8 +786,8 @@
         "junior"
       ],
       "manufacturer": "pillsbury",
-      "class_id": 26,
-      "reason": "Biscuits Buttermilk mapped to Biscuits",
+      "class_id": 28,
+      "reason": "Pillsbury sells pre-cooked biscuits. Closest thing is pancake mixes.",
       "meta_code": 156
     },
     {
@@ -819,8 +819,8 @@
         "original"
       ],
       "manufacturer": "pet",
-      "class_id": 76,
-      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "class_id": 36,
+      "reason": "Evaporated Milk is a baking good. Closest match is sugar",
       "meta_code": 158
     },
     {
@@ -1005,7 +1005,7 @@
         "popcorn"
       ],
       "manufacturer": "orville redenbachers",
-      "class_id": 12,
+      "class_id": 54,
       "reason": "Microwave Popcorn Butter mapped to Snack Foods",
       "meta_code": 172
     },
@@ -1018,7 +1018,7 @@
         "sea"
       ],
       "manufacturer": "orville redenbachers",
-      "class_id": 12,
+      "class_id": 54,
       "reason": "Popcorn Garlic Butter & Sea Salt mapped to Snack Foods",
       "meta_code": 173
     },
@@ -1071,7 +1071,7 @@
         "original"
       ],
       "manufacturer": "ocean spray",
-      "class_id": 82,
+      "class_id": 109,
       "reason": "Craisins Original mapped to Dried Fruit",
       "meta_code": 178
     },
@@ -1092,8 +1092,8 @@
         "carnation"
       ],
       "manufacturer": "nestle",
-      "class_id": 11,
-      "reason": "Carnation Reduced Fat mapped to Milk",
+      "class_id": 50,
+      "reason": "Carnation Reduced Fat is a condensed milk. Remapped by AU to sugar",
       "meta_code": 180
     },
     {
@@ -1105,8 +1105,8 @@
         "chocolate"
       ],
       "manufacturer": "nestle",
-      "class_id": 76,
-      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "class_id": 51,
+      "reason": "Remapped by AU to hot chocolate",
       "meta_code": 181
     },
     {
@@ -1207,7 +1207,7 @@
         "cinnamon"
       ],
       "manufacturer": "motts",
-      "class_id": 82,
+      "class_id": 3,
       "reason": "Applesauce Cinnamon mapped to Canned Fruit",
       "meta_code": 187
     },
@@ -1424,8 +1424,8 @@
         "cupcakes"
       ],
       "manufacturer": "little debbie",
-      "class_id": 45,
-      "reason": "Cupcakes Chocolate mapped to Snack Cakes",
+      "class_id": 26,
+      "reason": "Cupcakes Chocolate re-mapped to Muffins by AU",
       "meta_code": 208
     },
     {
@@ -1434,8 +1434,8 @@
         "cupcakes"
       ],
       "manufacturer": "hostess",
-      "class_id": 45,
-      "reason": "Cupcakes Chocolate mapped to Snack Cakes",
+      "class_id": 26,
+      "reason": "Cupcakes Chocolate re-mapped to Muffins by AU",
       "meta_code": 208
     },
     {
@@ -1488,8 +1488,8 @@
         "shield"
       ],
       "manufacturer": "listerine",
-      "class_id": 39,
-      "reason": "Mouthwash mapped to Personal Care ",
+      "class_id": 74,
+      "reason": "Mouthwash re-mapped to Mouthwash by AU ",
       "meta_code": 213
     },
     {
@@ -1646,8 +1646,8 @@
         "singles"
       ],
       "manufacturer": "kraft",
-      "class_id": 76,
-      "reason": "Non-Dairy Milk mapped to Milk (closest category)",
+      "class_id": 11,
+      "reason": "American Singles is Cheese",
       "meta_code": 223
     },
     {
@@ -1749,8 +1749,8 @@
         "sandwiches"
       ],
       "manufacturer": "kelloggs",
-      "class_id": 26,
-      "reason": "Breakfast Sandwiches mapped to Frozen Breakfast",
+      "class_id": 29,
+      "reason": "Breakfast Sandwiches mapped to Frozen Pancakes by AU",
       "meta_code": 231
     },
     {
@@ -1762,7 +1762,7 @@
         "toaster"
       ],
       "manufacturer": "kelloggs",
-      "class_id": 26,
+      "class_id": 29,
       "reason": "French Toaster Sticks mapped to Frozen Breakfast",
       "meta_code": 232
     },
@@ -1854,8 +1854,8 @@
         "rice"
       ],
       "manufacturer": "kelloggs",
-      "class_id": 12,
-      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "class_id": 45,
+      "reason": "Granola Bars re-mapped to cookies by AU",
       "meta_code": 238
     },
     {
@@ -1870,8 +1870,8 @@
         "special"
       ],
       "manufacturer": "kelloggs",
-      "class_id": 12,
-      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "class_id": 45,
+      "reason": "Granola Bars re-mapped to cookies by AU",
       "meta_code": 239
     },
     {
@@ -1886,8 +1886,8 @@
         "special"
       ],
       "manufacturer": "kelloggs",
-      "class_id": 12,
-      "reason": "Mapped to Snack Foods (no Granola Bar category available)",
+      "class_id": 45,
+      "reason": "Granola Bars re-mapped to cookies by AU",
       "meta_code": 240
     },
     {
@@ -1907,8 +1907,8 @@
         "baby"
       ],
       "manufacturer": "johnsons",
-      "class_id": 74,
-      "reason": "Baby Oil mapped to Bathroom Products",
+      "class_id": 79,
+      "reason": "Baby Oil re-mapped to Shampoo by AU",
       "meta_code": 242
     },
     {
@@ -1918,8 +1918,8 @@
         "baby"
       ],
       "manufacturer": "johnsons",
-      "class_id": 74,
-      "reason": "Baby Powder mapped to Bathroom Products",
+      "class_id": 79,
+      "reason": "Baby Powder re-mapped to Shampoo by AU",
       "meta_code": 243
     },
     {
@@ -2217,8 +2217,8 @@
         "salsa"
       ],
       "manufacturer": "herdez",
-      "class_id": 48,
-      "reason": "Salsa Mild mapped to Sauces",
+      "class_id": 83,
+      "reason": "Salsa Mild mapped to Dips",
       "meta_code": 258
     },
     {
@@ -2806,7 +2806,7 @@
         "bananas"
       ],
       "manufacturer": "dole",
-      "class_id": 13,
+      "class_id": 99,
       "reason": "Bananas mapped to Fresh Fruit",
       "meta_code": 295
     },
@@ -2841,7 +2841,7 @@
         "fruit"
       ],
       "manufacturer": "del monte",
-      "class_id": 82,
+      "class_id": 3,
       "reason": "Fruit Cup mapped to Canned Fruit",
       "meta_code": 298
     },
@@ -2854,7 +2854,7 @@
         "fruit"
       ],
       "manufacturer": "del monte",
-      "class_id": 82,
+      "class_id": 3,
       "reason": "Fruit Burst Squeezers mapped to Canned Fruit",
       "meta_code": 299
     },
@@ -2866,8 +2866,8 @@
         "fresh"
       ],
       "manufacturer": "crest",
-      "class_id": 39,
-      "reason": "3D White Arctic Fresh mapped to Personal Care ",
+      "class_id": 88,
+      "reason": "3D White Arctic Fresh is a toothpaste. Mapped to toothbrushes by AU ",
       "meta_code": 300
     },
     {
@@ -2959,7 +2959,7 @@
     ],
     "manufacturer": "chex mix",
     "class_id": 12,
-    "reason": "Snack Mix mapped to Snack Foods",
+    "reason": "Chex Mix mapped to Chips",
     "meta_code": 308
   },
   {
@@ -3174,8 +3174,8 @@
         "stuffed"
       ],
       "manufacturer": "barber",
-      "class_id": 4,
-      "reason": "Stuffed Broccoli & Cheese mapped to Frozen Entrees",
+      "class_id": 10,
+      "reason": "Mapped to TV Dinners by AU",
       "meta_code": 325
     },
     {
@@ -3473,7 +3473,7 @@
         "popcorn"
       ],
       "manufacturer": "act ii",
-      "class_id": 12,
+      "class_id": 54,
       "reason": "Popcorn Butter mapped to Snack Foods",
       "meta_code": 339
     },
